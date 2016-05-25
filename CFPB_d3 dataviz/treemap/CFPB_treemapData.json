@@ -1,0 +1,260 @@
+{
+  "name": ["MyData"],
+  "children": [
+    {
+      "name": ["Mortgage"],
+      "children": [
+        {
+          "name": ["Other mortgage"],
+          "value": [71198]
+        },
+        {
+          "name": ["FHA mortgage"],
+          "value": [17935]
+        },
+        {
+          "name": ["VA mortgage"],
+          "value": [3420]
+        },
+        {
+          "name": ["Conventional fixed mortgage"],
+          "value": [54151]
+        },
+        {
+          "name": ["Home equity loan or line of credit"],
+          "value": [8308]
+        },
+        {
+          "name": ["Conventional adjustable mortgage (ARM)"],
+          "value": [19887]
+        },
+        {
+          "name": ["Reverse mortgage"],
+          "value": [1417]
+        },
+        {
+          "name": ["Second mortgage"],
+          "value": [664]
+        }
+      ]
+    },
+    {
+      "name": ["Debt collection"],
+      "children": [
+        {
+          "name": ["Other (i.e. phone, health club, etc.)"],
+          "value": [26921]
+        },
+        {
+          "name": ["I do not know"],
+          "value": [19983]
+        },
+        {
+          "name": ["Credit card"],
+          "value": [19191]
+        },
+        {
+          "name": ["Medical"],
+          "value": [11913]
+        },
+        {
+          "name": ["Payday loan"],
+          "value": [5452]
+        },
+        {
+          "name": ["Auto"],
+          "value": [2316]
+        },
+        {
+          "name": ["Non-federal student loan"],
+          "value": [1961]
+        },
+        {
+          "name": ["Federal student loan"],
+          "value": [1617]
+        },
+        {
+          "name": ["Mortgage"],
+          "value": [3104]
+        }
+      ]
+    },
+    {
+      "name": ["Bank account or service"],
+      "children": [
+        {
+          "name": ["Checking account"],
+          "value": [42072]
+        },
+        {
+          "name": ["Other bank product/service"],
+          "value": [9778]
+        },
+        {
+          "name": ["Savings account"],
+          "value": [3738]
+        },
+        {
+          "name": ["(CD) Certificate of deposit"],
+          "value": [2697]
+        },
+        {
+          "name": ["Cashing a check without an account"],
+          "value": [446]
+        }
+      ]
+    },
+    {
+      "name": ["Consumer Loan"],
+      "children": [
+        {
+          "name": ["Vehicle loan"],
+          "value": [11110]
+        },
+        {
+          "name": ["Vehicle lease"],
+          "value": [1485]
+        },
+        {
+          "name": ["Installment loan"],
+          "value": [4661]
+        },
+        {
+          "name": ["Personal line of credit"],
+          "value": [1439]
+        },
+        {
+          "name": ["Title loan"],
+          "value": [284]
+        },
+        {
+          "name": ["Pawn loan"],
+          "value": [54]
+        }
+      ]
+    },
+    {
+      "name": ["Credit reporting"],
+      "children": [
+        {
+          "name": ["Credit reporting"],
+          "value": [82599]
+        }
+      ]
+    },
+    {
+      "name": ["Credit card"],
+      "children": [
+        {
+          "name": ["Credit card"],
+          "value": [62326]
+        }
+      ]
+    },
+    {
+      "name": ["Student loan"],
+      "children": [
+        {
+          "name": ["Non-federal student loan"],
+          "value": [14899]
+        }
+      ]
+    },
+    {
+      "name": ["Payday loan"],
+      "children": [
+        {
+          "name": ["Payday loan"],
+          "value": [3586]
+        }
+      ]
+    },
+    {
+      "name": ["Money transfers"],
+      "children": [
+        {
+          "name": ["International money transfer"],
+          "value": [1882]
+        },
+        {
+          "name": ["Domestic (US) money transfer"],
+          "value": [1584]
+        }
+      ]
+    },
+    {
+      "name": ["Prepaid card"],
+      "children": [
+        {
+          "name": ["Payroll card"],
+          "value": [297]
+        },
+        {
+          "name": ["General purpose card"],
+          "value": [1019]
+        },
+        {
+          "name": ["Mobile wallet"],
+          "value": [206]
+        },
+        {
+          "name": ["Government benefit payment card"],
+          "value": [196]
+        },
+        {
+          "name": ["Other special purpose card"],
+          "value": [109]
+        },
+        {
+          "name": ["ID prepaid card"],
+          "value": [133]
+        },
+        {
+          "name": ["Gift or merchant card"],
+          "value": [200]
+        },
+        {
+          "name": ["Transit card"],
+          "value": [28]
+        },
+        {
+          "name": ["Electronic Benefit Transfer / EBT card"],
+          "value": [3]
+        }
+      ]
+    },
+    {
+      "name": ["Other financial service"],
+      "children": [
+        {
+          "name": ["Money order"],
+          "value": [56]
+        },
+        {
+          "name": ["Debt settlement"],
+          "value": [109]
+        },
+        {
+          "name": ["Check cashing"],
+          "value": [136]
+        },
+        {
+          "name": ["Refund anticipation check"],
+          "value": [23]
+        },
+        {
+          "name": ["Foreign currency exchange"],
+          "value": [32]
+        },
+        {
+          "name": ["Traveler/Cashier Checks"],
+          "value": [44]
+        },
+        {
+          "name": ["Credit repair"],
+          "value": [48]
+        }
+      ]
+    }
+  ]
+}

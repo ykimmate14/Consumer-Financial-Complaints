@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<style>
+			#tooltip {
+				position: absolute;
+				width: 250px;
+				height: auto;
+				padding: 10px;
+				background-color: white;
+				border-radius: 10px;
+				pointer-events: none;
+				border: 1px solid black
+			}
+			#tooltip p {
+				margin: 0;
+				font-family: sans-serif;
+				font-size: 16px;
+				line-height: 20px;
+			}
+			svg{
+				margin-top: 80px;
+			}
+		</style>
+	</head>
+	<body>
+		<div id="tooltip">
+			<p align="center"><strong><span id="product"></span></strong></p>
+			<p align = "center"><span id="subproduct"></span></p>
+			<p align = "center"><span id="value"></span></p>
+		</div>
+		<script src="//d3js.org/d3.v3.min.js"></script>
+		<script>
+			var color = d3.scale.category20();
+			var width = 1000;
+			var height = 600;
+			var svg = d3.select("body")
+						.append("svg")
+						.attr("width", width)
+						.attr("height", height);
+			
+			d3.json("CFPB_treemapData.json", function(data){
+				console.log(data);
+				var treemap = d3.layout.treemap()
+							.size([width,height])
+							.nodes(data);
+							
+				console.log(treemap)
+				
+				var cells = svg.selectAll("g")
+							   .data(treemap)
+							   .enter()
+							   .append("g")
+							   .attr("class", "cell")
+							   
+				cells.append("rect")
+					 .attr("x", function(d){return d.x;})
+					 .attr("y", function(d){return d.y;})
+					 .attr("width", function(d){return d.dx})
+					 .attr("height", function(d){return d.dy})
+					 .attr("fill",function(d){return d.children ? null : color(d.parent.name);})
+					 .attr("stroke", "white")
+					 //create tooltip
+					 .on("mouseover", function(d){
+						var xPosition = svg.attr("width")/2 - 125;
+						var yPosition = 0;
+						var color = d3.select(this).attr("fill");
+						
+						var tooltip = d3.select("#tooltip")
+										.style("left", xPosition + "px")
+										.style("top", yPosition + "px");
+										
+						tooltip.select("#product").text(d.children ? null : d.parent.name).style("color", color);
+						tooltip.select("#subproduct").text(d.children ? null : d.name);
+						tooltip.select("#value").text(d.children ? null : "Number of Complaints: "+ d.value);						
+					 })
+			});
+		</script>
+	</body>
+</html>

@@ -1,0 +1,2050 @@
+"State","Product","Sub.product","count"
+"Alaska","Bank account or service","(CD) Certificate of deposit",7
+"Alaska","Debt collection","Auto",4
+"Alaska","Bank account or service","Cashing a check without an account",1
+"Alaska","Bank account or service","Checking account",45
+"Alaska","Mortgage","Conventional adjustable mortgage (ARM)",10
+"Alaska","Mortgage","Conventional fixed mortgage",49
+"Alaska","Credit Card","Credit Card",95
+"Alaska","Debt collection","Credit card",37
+"Alaska","Credit reporting","Credit reporting",114
+"Alaska","Money transfers","Domestic (US) money transfer",2
+"Alaska","Mortgage","FHA mortgage",21
+"Alaska","Debt collection","Federal student loan",1
+"Alaska","Prepaid card","General purpose card",1
+"Alaska","Prepaid card","Government benefit payment card",1
+"Alaska","Mortgage","Home equity loan or line of credit",2
+"Alaska","Debt collection","I do not know",31
+"Alaska","Consumer Loan","Installment loan",4
+"Alaska","Money transfers","International money transfer",5
+"Alaska","Debt collection","Medical",11
+"Alaska","Prepaid card","Mobile wallet",1
+"Alaska","Debt collection","Mortgage",3
+"Alaska","Student loan","Non-federal student loan",26
+"Alaska","Debt collection","Other (i.e. phone, health club, etc.)",35
+"Alaska","Bank account or service","Other bank product/service",14
+"Alaska","Mortgage","Other mortgage",47
+"Alaska","Consumer Loan","Pawn loan",1
+"Alaska","Debt collection","Payday loan",7
+"Alaska","Consumer Loan","Personal line of credit",3
+"Alaska","Bank account or service","Savings account",3
+"Alaska","Mortgage","VA mortgage",15
+"Alaska","Consumer Loan","Vehicle lease",1
+"Alaska","Consumer Loan","Vehicle loan",8
+"Alabama","Bank account or service","(CD) Certificate of deposit",21
+"Alabama","Debt collection","Auto",28
+"Alabama","Bank account or service","Cashing a check without an account",4
+"Alabama","Other financial service","Check cashing",4
+"Alabama","Bank account or service","Checking account",413
+"Alabama","Mortgage","Conventional adjustable mortgage (ARM)",75
+"Alabama","Mortgage","Conventional fixed mortgage",488
+"Alabama","Credit Card","Credit Card",518
+"Alabama","Debt collection","Credit card",214
+"Alabama","Other financial service","Credit repair",1
+"Alabama","Credit reporting","Credit reporting",1019
+"Alabama","Other financial service","Debt settlement",1
+"Alabama","Money transfers","Domestic (US) money transfer",15
+"Alabama","Mortgage","FHA mortgage",215
+"Alabama","Debt collection","Federal student loan",31
+"Alabama","Prepaid card","General purpose card",12
+"Alabama","Prepaid card","Gift or merchant card",1
+"Alabama","Prepaid card","Government benefit payment card",4
+"Alabama","Mortgage","Home equity loan or line of credit",52
+"Alabama","Debt collection","I do not know",273
+"Alabama","Prepaid card","ID prepaid card",1
+"Alabama","Consumer Loan","Installment loan",113
+"Alabama","Money transfers","International money transfer",9
+"Alabama","Debt collection","Medical",135
+"Alabama","Other financial service","Money order",1
+"Alabama","Debt collection","Mortgage",40
+"Alabama","Student loan","Non-federal student loan",174
+"Alabama","Debt collection","Other (i.e. phone, health club, etc.)",343
+"Alabama","Bank account or service","Other bank product/service",99
+"Alabama","Mortgage","Other mortgage",449
+"Alabama","Prepaid card","Other special purpose card",3
+"Alabama","Consumer Loan","Pawn loan",1
+"Alabama","Debt collection","Payday loan",204
+"Alabama","Prepaid card","Payroll card",2
+"Alabama","Consumer Loan","Personal line of credit",24
+"Alabama","Mortgage","Reverse mortgage",10
+"Alabama","Bank account or service","Savings account",25
+"Alabama","Mortgage","Second mortgage",5
+"Alabama","Consumer Loan","Title loan",5
+"Alabama","Prepaid card","Transit card",1
+"Alabama","Other financial service","Traveler/Cashier Checks",1
+"Alabama","Mortgage","VA mortgage",38
+"Alabama","Consumer Loan","Vehicle lease",8
+"Alabama","Consumer Loan","Vehicle loan",186
+"Arkansas","Bank account or service","(CD) Certificate of deposit",19
+"Arkansas","Debt collection","Auto",9
+"Arkansas","Bank account or service","Cashing a check without an account",4
+"Arkansas","Bank account or service","Checking account",182
+"Arkansas","Mortgage","Conventional adjustable mortgage (ARM)",45
+"Arkansas","Mortgage","Conventional fixed mortgage",178
+"Arkansas","Credit Card","Credit Card",267
+"Arkansas","Debt collection","Credit card",102
+"Arkansas","Credit reporting","Credit reporting",432
+"Arkansas","Other financial service","Debt settlement",1
+"Arkansas","Money transfers","Domestic (US) money transfer",7
+"Arkansas","Mortgage","FHA mortgage",88
+"Arkansas","Debt collection","Federal student loan",7
+"Arkansas","Prepaid card","General purpose card",5
+"Arkansas","Prepaid card","Government benefit payment card",2
+"Arkansas","Mortgage","Home equity loan or line of credit",17
+"Arkansas","Debt collection","I do not know",77
+"Arkansas","Consumer Loan","Installment loan",25
+"Arkansas","Money transfers","International money transfer",7
+"Arkansas","Debt collection","Medical",64
+"Arkansas","Prepaid card","Mobile wallet",2
+"Arkansas","Debt collection","Mortgage",9
+"Arkansas","Student loan","Non-federal student loan",84
+"Arkansas","Debt collection","Other (i.e. phone, health club, etc.)",157
+"Arkansas","Bank account or service","Other bank product/service",41
+"Arkansas","Mortgage","Other mortgage",227
+"Arkansas","Debt collection","Payday loan",34
+"Arkansas","Prepaid card","Payroll card",3
+"Arkansas","Consumer Loan","Personal line of credit",7
+"Arkansas","Mortgage","Reverse mortgage",6
+"Arkansas","Bank account or service","Savings account",9
+"Arkansas","Mortgage","Second mortgage",1
+"Arkansas","Mortgage","VA mortgage",24
+"Arkansas","Consumer Loan","Vehicle lease",1
+"Arkansas","Consumer Loan","Vehicle loan",85
+"Arizona","Bank account or service","(CD) Certificate of deposit",83
+"Arizona","Debt collection","Auto",68
+"Arizona","Bank account or service","Cashing a check without an account",7
+"Arizona","Other financial service","Check cashing",4
+"Arizona","Bank account or service","Checking account",886
+"Arizona","Mortgage","Conventional adjustable mortgage (ARM)",404
+"Arizona","Mortgage","Conventional fixed mortgage",1303
+"Arizona","Credit Card","Credit Card",1388
+"Arizona","Debt collection","Credit card",481
+"Arizona","Credit reporting","Credit reporting",1633
+"Arizona","Other financial service","Debt settlement",2
+"Arizona","Money transfers","Domestic (US) money transfer",30
+"Arizona","Mortgage","FHA mortgage",415
+"Arizona","Debt collection","Federal student loan",45
+"Arizona","Prepaid card","General purpose card",20
+"Arizona","Prepaid card","Gift or merchant card",4
+"Arizona","Prepaid card","Government benefit payment card",6
+"Arizona","Mortgage","Home equity loan or line of credit",223
+"Arizona","Debt collection","I do not know",497
+"Arizona","Prepaid card","ID prepaid card",1
+"Arizona","Consumer Loan","Installment loan",93
+"Arizona","Money transfers","International money transfer",40
+"Arizona","Debt collection","Medical",288
+"Arizona","Prepaid card","Mobile wallet",8
+"Arizona","Debt collection","Mortgage",70
+"Arizona","Student loan","Non-federal student loan",294
+"Arizona","Debt collection","Other (i.e. phone, health club, etc.)",610
+"Arizona","Bank account or service","Other bank product/service",205
+"Arizona","Mortgage","Other mortgage",1654
+"Arizona","Prepaid card","Other special purpose card",3
+"Arizona","Consumer Loan","Pawn loan",1
+"Arizona","Debt collection","Payday loan",160
+"Arizona","Prepaid card","Payroll card",4
+"Arizona","Consumer Loan","Personal line of credit",32
+"Arizona","Mortgage","Reverse mortgage",32
+"Arizona","Bank account or service","Savings account",70
+"Arizona","Mortgage","Second mortgage",23
+"Arizona","Consumer Loan","Title loan",12
+"Arizona","Other financial service","Traveler/Cashier Checks",1
+"Arizona","Mortgage","VA mortgage",103
+"Arizona","Consumer Loan","Vehicle lease",27
+"Arizona","Consumer Loan","Vehicle loan",292
+"California","Bank account or service","(CD) Certificate of deposit",357
+"California","Debt collection","Auto",318
+"California","Bank account or service","Cashing a check without an account",57
+"California","Other financial service","Check cashing",13
+"California","Bank account or service","Checking account",5591
+"California","Mortgage","Conventional adjustable mortgage (ARM)",6219
+"California","Mortgage","Conventional fixed mortgage",8175
+"California","Credit Card","Credit Card",8435
+"California","Debt collection","Credit card",2659
+"California","Other financial service","Credit repair",2
+"California","Credit reporting","Credit reporting",10812
+"California","Other financial service","Debt settlement",15
+"California","Money transfers","Domestic (US) money transfer",227
+"California","Mortgage","FHA mortgage",1649
+"California","Debt collection","Federal student loan",204
+"California","Other financial service","Foreign currency exchange",6
+"California","Prepaid card","General purpose card",131
+"California","Prepaid card","Gift or merchant card",49
+"California","Prepaid card","Government benefit payment card",30
+"California","Mortgage","Home equity loan or line of credit",1388
+"California","Debt collection","I do not know",2622
+"California","Prepaid card","ID prepaid card",21
+"California","Consumer Loan","Installment loan",594
+"California","Money transfers","International money transfer",264
+"California","Debt collection","Medical",1491
+"California","Prepaid card","Mobile wallet",32
+"California","Other financial service","Money order",8
+"California","Debt collection","Mortgage",513
+"California","Student loan","Non-federal student loan",1860
+"California","Debt collection","Other (i.e. phone, health club, etc.)",3589
+"California","Bank account or service","Other bank product/service",1416
+"California","Mortgage","Other mortgage",13204
+"California","Prepaid card","Other special purpose card",17
+"California","Consumer Loan","Pawn loan",3
+"California","Debt collection","Payday loan",1171
+"California","Prepaid card","Payroll card",10
+"California","Consumer Loan","Personal line of credit",152
+"California","Other financial service","Refund anticipation check",2
+"California","Mortgage","Reverse mortgage",229
+"California","Bank account or service","Savings account",562
+"California","Mortgage","Second mortgage",129
+"California","Consumer Loan","Title loan",67
+"California","Prepaid card","Transit card",4
+"California","Other financial service","Traveler/Cashier Checks",15
+"California","Mortgage","VA mortgage",279
+"California","Consumer Loan","Vehicle lease",223
+"California","Consumer Loan","Vehicle loan",1160
+"Colorado","Bank account or service","(CD) Certificate of deposit",37
+"Colorado","Debt collection","Auto",39
+"Colorado","Bank account or service","Cashing a check without an account",4
+"Colorado","Other financial service","Check cashing",1
+"Colorado","Bank account or service","Checking account",626
+"Colorado","Mortgage","Conventional adjustable mortgage (ARM)",419
+"Colorado","Mortgage","Conventional fixed mortgage",1034
+"Colorado","Credit Card","Credit Card",1166
+"Colorado","Debt collection","Credit card",293
+"Colorado","Credit reporting","Credit reporting",1355
+"Colorado","Other financial service","Debt settlement",1
+"Colorado","Money transfers","Domestic (US) money transfer",21
+"Colorado","Mortgage","FHA mortgage",414
+"Colorado","Debt collection","Federal student loan",30
+"Colorado","Prepaid card","General purpose card",12
+"Colorado","Prepaid card","Gift or merchant card",7
+"Colorado","Prepaid card","Government benefit payment card",2
+"Colorado","Mortgage","Home equity loan or line of credit",151
+"Colorado","Debt collection","I do not know",320
+"Colorado","Prepaid card","ID prepaid card",2
+"Colorado","Consumer Loan","Installment loan",57
+"Colorado","Money transfers","International money transfer",19
+"Colorado","Debt collection","Medical",284
+"Colorado","Prepaid card","Mobile wallet",1
+"Colorado","Debt collection","Mortgage",58
+"Colorado","Student loan","Non-federal student loan",276
+"Colorado","Debt collection","Other (i.e. phone, health club, etc.)",491
+"Colorado","Bank account or service","Other bank product/service",147
+"Colorado","Mortgage","Other mortgage",983
+"Colorado","Prepaid card","Other special purpose card",2
+"Colorado","Consumer Loan","Pawn loan",2
+"Colorado","Payday loan","Payday loan",133
+"Colorado","Prepaid card","Payroll card",2
+"Colorado","Consumer Loan","Personal line of credit",20
+"Colorado","Other financial service","Refund anticipation check",3
+"Colorado","Mortgage","Reverse mortgage",22
+"Colorado","Bank account or service","Savings account",64
+"Colorado","Mortgage","Second mortgage",15
+"Colorado","Consumer Loan","Title loan",1
+"Colorado","Mortgage","VA mortgage",87
+"Colorado","Consumer Loan","Vehicle lease",30
+"Colorado","Consumer Loan","Vehicle loan",180
+"Connecticut","Bank account or service","(CD) Certificate of deposit",53
+"Connecticut","Debt collection","Auto",23
+"Connecticut","Bank account or service","Cashing a check without an account",8
+"Connecticut","Bank account or service","Checking account",595
+"Connecticut","Mortgage","Conventional adjustable mortgage (ARM)",198
+"Connecticut","Mortgage","Conventional fixed mortgage",659
+"Connecticut","Credit Card","Credit Card",942
+"Connecticut","Debt collection","Credit card",218
+"Connecticut","Credit reporting","Credit reporting",787
+"Connecticut","Other financial service","Debt settlement",3
+"Connecticut","Money transfers","Domestic (US) money transfer",14
+"Connecticut","Mortgage","FHA mortgage",205
+"Connecticut","Debt collection","Federal student loan",21
+"Connecticut","Prepaid card","General purpose card",19
+"Connecticut","Prepaid card","Gift or merchant card",1
+"Connecticut","Prepaid card","Government benefit payment card",3
+"Connecticut","Mortgage","Home equity loan or line of credit",108
+"Connecticut","Debt collection","I do not know",184
+"Connecticut","Prepaid card","ID prepaid card",2
+"Connecticut","Consumer Loan","Installment loan",39
+"Connecticut","Money transfers","International money transfer",12
+"Connecticut","Debt collection","Medical",75
+"Connecticut","Prepaid card","Mobile wallet",4
+"Connecticut","Other financial service","Money order",1
+"Connecticut","Debt collection","Mortgage",21
+"Connecticut","Student loan","Non-federal student loan",231
+"Connecticut","Debt collection","Other (i.e. phone, health club, etc.)",231
+"Connecticut","Bank account or service","Other bank product/service",135
+"Connecticut","Mortgage","Other mortgage",891
+"Connecticut","Prepaid card","Other special purpose card",2
+"Connecticut","Payday loan","Payday loan",39
+"Connecticut","Prepaid card","Payroll card",7
+"Connecticut","Consumer Loan","Personal line of credit",24
+"Connecticut","Mortgage","Reverse mortgage",19
+"Connecticut","Bank account or service","Savings account",64
+"Connecticut","Mortgage","Second mortgage",7
+"Connecticut","Consumer Loan","Title loan",1
+"Connecticut","Mortgage","VA mortgage",20
+"Connecticut","Consumer Loan","Vehicle lease",35
+"Connecticut","Consumer Loan","Vehicle loan",138
+"District of Columbia","Bank account or service","(CD) Certificate of deposit",15
+"District of Columbia","Debt collection","Auto",9
+"District of Columbia","Bank account or service","Cashing a check without an account",2
+"District of Columbia","Other financial service","Check cashing",1
+"District of Columbia","Bank account or service","Checking account",345
+"District of Columbia","Mortgage","Conventional adjustable mortgage (ARM)",117
+"District of Columbia","Mortgage","Conventional fixed mortgage",307
+"District of Columbia","Credit Card","Credit Card",426
+"District of Columbia","Debt collection","Credit card",77
+"District of Columbia","Credit reporting","Credit reporting",439
+"District of Columbia","Other financial service","Debt settlement",2
+"District of Columbia","Money transfers","Domestic (US) money transfer",15
+"District of Columbia","Mortgage","FHA mortgage",90
+"District of Columbia","Debt collection","Federal student loan",17
+"District of Columbia","Prepaid card","General purpose card",6
+"District of Columbia","Prepaid card","Gift or merchant card",3
+"District of Columbia","Prepaid card","Government benefit payment card",4
+"District of Columbia","Mortgage","Home equity loan or line of credit",53
+"District of Columbia","Debt collection","I do not know",99
+"District of Columbia","Prepaid card","ID prepaid card",1
+"District of Columbia","Consumer Loan","Installment loan",23
+"District of Columbia","Money transfers","International money transfer",9
+"District of Columbia","Debt collection","Medical",56
+"District of Columbia","Prepaid card","Mobile wallet",2
+"District of Columbia","Other financial service","Money order",2
+"District of Columbia","Debt collection","Mortgage",18
+"District of Columbia","Student loan","Non-federal student loan",168
+"District of Columbia","Debt collection","Other (i.e. phone, health club, etc.)",149
+"District of Columbia","Bank account or service","Other bank product/service",87
+"District of Columbia","Mortgage","Other mortgage",253
+"District of Columbia","Debt collection","Payday loan",49
+"District of Columbia","Consumer Loan","Personal line of credit",12
+"District of Columbia","Other financial service","Refund anticipation check",1
+"District of Columbia","Mortgage","Reverse mortgage",12
+"District of Columbia","Bank account or service","Savings account",30
+"District of Columbia","Mortgage","Second mortgage",5
+"District of Columbia","Consumer Loan","Title loan",2
+"District of Columbia","Mortgage","VA mortgage",6
+"District of Columbia","Consumer Loan","Vehicle lease",12
+"District of Columbia","Consumer Loan","Vehicle loan",62
+"Delaware","Bank account or service","(CD) Certificate of deposit",18
+"Delaware","Debt collection","Auto",12
+"Delaware","Bank account or service","Cashing a check without an account",2
+"Delaware","Bank account or service","Checking account",267
+"Delaware","Mortgage","Conventional adjustable mortgage (ARM)",65
+"Delaware","Mortgage","Conventional fixed mortgage",283
+"Delaware","Credit Card","Credit Card",421
+"Delaware","Debt collection","Credit card",117
+"Delaware","Credit reporting","Credit reporting",368
+"Delaware","Money transfers","Domestic (US) money transfer",7
+"Delaware","Mortgage","FHA mortgage",82
+"Delaware","Debt collection","Federal student loan",7
+"Delaware","Prepaid card","General purpose card",6
+"Delaware","Prepaid card","Government benefit payment card",1
+"Delaware","Mortgage","Home equity loan or line of credit",42
+"Delaware","Debt collection","I do not know",87
+"Delaware","Prepaid card","ID prepaid card",1
+"Delaware","Consumer Loan","Installment loan",30
+"Delaware","Money transfers","International money transfer",7
+"Delaware","Debt collection","Medical",57
+"Delaware","Other financial service","Money order",1
+"Delaware","Debt collection","Mortgage",44
+"Delaware","Student loan","Non-federal student loan",67
+"Delaware","Debt collection","Other (i.e. phone, health club, etc.)",119
+"Delaware","Bank account or service","Other bank product/service",56
+"Delaware","Mortgage","Other mortgage",343
+"Delaware","Debt collection","Payday loan",58
+"Delaware","Prepaid card","Payroll card",2
+"Delaware","Consumer Loan","Personal line of credit",11
+"Delaware","Mortgage","Reverse mortgage",8
+"Delaware","Bank account or service","Savings account",31
+"Delaware","Mortgage","Second mortgage",3
+"Delaware","Mortgage","VA mortgage",18
+"Delaware","Consumer Loan","Vehicle lease",16
+"Delaware","Consumer Loan","Vehicle loan",99
+"Florida","Bank account or service","(CD) Certificate of deposit",257
+"Florida","Debt collection","Auto",211
+"Florida","Bank account or service","Cashing a check without an account",29
+"Florida","Other financial service","Check cashing",14
+"Florida","Bank account or service","Checking account",4001
+"Florida","Mortgage","Conventional adjustable mortgage (ARM)",2126
+"Florida","Mortgage","Conventional fixed mortgage",5463
+"Florida","Credit Card","Credit Card",5266
+"Florida","Debt collection","Credit card",1778
+"Florida","Other financial service","Credit repair",2
+"Florida","Credit reporting","Credit reporting",7627
+"Florida","Other financial service","Debt settlement",6
+"Florida","Money transfers","Domestic (US) money transfer",102
+"Florida","Prepaid card","Electronic Benefit Transfer / EBT card",1
+"Florida","Mortgage","FHA mortgage",1563
+"Florida","Debt collection","Federal student loan",119
+"Florida","Other financial service","Foreign currency exchange",2
+"Florida","Prepaid card","General purpose card",72
+"Florida","Prepaid card","Gift or merchant card",7
+"Florida","Prepaid card","Government benefit payment card",7
+"Florida","Mortgage","Home equity loan or line of credit",807
+"Florida","Debt collection","I do not know",1965
+"Florida","Prepaid card","ID prepaid card",4
+"Florida","Consumer Loan","Installment loan",293
+"Florida","Money transfers","International money transfer",166
+"Florida","Debt collection","Medical",1243
+"Florida","Prepaid card","Mobile wallet",9
+"Florida","Other financial service","Money order",3
+"Florida","Debt collection","Mortgage",332
+"Florida","Student loan","Non-federal student loan",1057
+"Florida","Debt collection","Other (i.e. phone, health club, etc.)",2405
+"Florida","Bank account or service","Other bank product/service",885
+"Florida","Mortgage","Other mortgage",9198
+"Florida","Prepaid card","Other special purpose card",9
+"Florida","Consumer Loan","Pawn loan",3
+"Florida","Debt collection","Payday loan",455
+"Florida","Prepaid card","Payroll card",18
+"Florida","Consumer Loan","Personal line of credit",121
+"Florida","Other financial service","Refund anticipation check",2
+"Florida","Mortgage","Reverse mortgage",168
+"Florida","Bank account or service","Savings account",311
+"Florida","Mortgage","Second mortgage",65
+"Florida","Consumer Loan","Title loan",10
+"Florida","Prepaid card","Transit card",1
+"Florida","Other financial service","Traveler/Cashier Checks",2
+"Florida","Mortgage","VA mortgage",323
+"Florida","Consumer Loan","Vehicle lease",156
+"Florida","Consumer Loan","Vehicle loan",958
+"Georgia","Bank account or service","(CD) Certificate of deposit",94
+"Georgia","Debt collection","Auto",116
+"Georgia","Bank account or service","Cashing a check without an account",21
+"Georgia","Other financial service","Check cashing",3
+"Georgia","Bank account or service","Checking account",1725
+"Georgia","Mortgage","Conventional adjustable mortgage (ARM)",735
+"Georgia","Mortgage","Conventional fixed mortgage",2649
+"Georgia","Credit Card","Credit Card",1973
+"Georgia","Debt collection","Credit card",876
+"Georgia","Other financial service","Credit repair",1
+"Georgia","Credit reporting","Credit reporting",3640
+"Georgia","Other financial service","Debt settlement",2
+"Georgia","Money transfers","Domestic (US) money transfer",72
+"Georgia","Mortgage","FHA mortgage",1320
+"Georgia","Debt collection","Federal student loan",74
+"Georgia","Prepaid card","General purpose card",64
+"Georgia","Prepaid card","Gift or merchant card",7
+"Georgia","Prepaid card","Government benefit payment card",5
+"Georgia","Mortgage","Home equity loan or line of credit",299
+"Georgia","Debt collection","I do not know",726
+"Georgia","Prepaid card","ID prepaid card",7
+"Georgia","Consumer Loan","Installment loan",231
+"Georgia","Money transfers","International money transfer",71
+"Georgia","Debt collection","Medical",497
+"Georgia","Prepaid card","Mobile wallet",10
+"Georgia","Other financial service","Money order",6
+"Georgia","Debt collection","Mortgage",189
+"Georgia","Student loan","Non-federal student loan",611
+"Georgia","Debt collection","Other (i.e. phone, health club, etc.)",1229
+"Georgia","Bank account or service","Other bank product/service",366
+"Georgia","Mortgage","Other mortgage",3689
+"Georgia","Prepaid card","Other special purpose card",7
+"Georgia","Consumer Loan","Pawn loan",5
+"Georgia","Debt collection","Payday loan",207
+"Georgia","Prepaid card","Payroll card",21
+"Georgia","Consumer Loan","Personal line of credit",59
+"Georgia","Mortgage","Reverse mortgage",33
+"Georgia","Bank account or service","Savings account",121
+"Georgia","Mortgage","Second mortgage",39
+"Georgia","Consumer Loan","Title loan",22
+"Georgia","Prepaid card","Transit card",3
+"Georgia","Other financial service","Traveler/Cashier Checks",1
+"Georgia","Mortgage","VA mortgage",217
+"Georgia","Consumer Loan","Vehicle lease",37
+"Georgia","Consumer Loan","Vehicle loan",584
+"Hawaii","Bank account or service","(CD) Certificate of deposit",7
+"Hawaii","Debt collection","Auto",3
+"Hawaii","Bank account or service","Checking account",91
+"Hawaii","Mortgage","Conventional adjustable mortgage (ARM)",83
+"Hawaii","Mortgage","Conventional fixed mortgage",200
+"Hawaii","Credit Card","Credit Card",244
+"Hawaii","Debt collection","Credit card",77
+"Hawaii","Credit reporting","Credit reporting",271
+"Hawaii","Money transfers","Domestic (US) money transfer",4
+"Hawaii","Mortgage","FHA mortgage",39
+"Hawaii","Debt collection","Federal student loan",1
+"Hawaii","Prepaid card","General purpose card",3
+"Hawaii","Prepaid card","Gift or merchant card",1
+"Hawaii","Mortgage","Home equity loan or line of credit",20
+"Hawaii","Debt collection","I do not know",75
+"Hawaii","Consumer Loan","Installment loan",15
+"Hawaii","Money transfers","International money transfer",5
+"Hawaii","Debt collection","Medical",29
+"Hawaii","Debt collection","Mortgage",65
+"Hawaii","Student loan","Non-federal student loan",45
+"Hawaii","Debt collection","Other (i.e. phone, health club, etc.)",68
+"Hawaii","Bank account or service","Other bank product/service",27
+"Hawaii","Mortgage","Other mortgage",340
+"Hawaii","Debt collection","Payday loan",22
+"Hawaii","Prepaid card","Payroll card",1
+"Hawaii","Consumer Loan","Personal line of credit",3
+"Hawaii","Mortgage","Reverse mortgage",8
+"Hawaii","Bank account or service","Savings account",9
+"Hawaii","Mortgage","Second mortgage",3
+"Hawaii","Mortgage","VA mortgage",20
+"Hawaii","Consumer Loan","Vehicle lease",6
+"Hawaii","Consumer Loan","Vehicle loan",32
+"Iowa","Bank account or service","(CD) Certificate of deposit",6
+"Iowa","Debt collection","Auto",13
+"Iowa","Bank account or service","Cashing a check without an account",2
+"Iowa","Bank account or service","Checking account",145
+"Iowa","Mortgage","Conventional adjustable mortgage (ARM)",24
+"Iowa","Mortgage","Conventional fixed mortgage",209
+"Iowa","Credit Card","Credit Card",335
+"Iowa","Debt collection","Credit card",92
+"Iowa","Credit reporting","Credit reporting",361
+"Iowa","Other financial service","Debt settlement",2
+"Iowa","Money transfers","Domestic (US) money transfer",7
+"Iowa","Mortgage","FHA mortgage",61
+"Iowa","Debt collection","Federal student loan",7
+"Iowa","Prepaid card","General purpose card",6
+"Iowa","Prepaid card","Government benefit payment card",2
+"Iowa","Mortgage","Home equity loan or line of credit",22
+"Iowa","Debt collection","I do not know",108
+"Iowa","Prepaid card","ID prepaid card",1
+"Iowa","Consumer Loan","Installment loan",21
+"Iowa","Money transfers","International money transfer",4
+"Iowa","Debt collection","Medical",57
+"Iowa","Prepaid card","Mobile wallet",2
+"Iowa","Debt collection","Mortgage",9
+"Iowa","Student loan","Non-federal student loan",121
+"Iowa","Debt collection","Other (i.e. phone, health club, etc.)",126
+"Iowa","Bank account or service","Other bank product/service",40
+"Iowa","Mortgage","Other mortgage",148
+"Iowa","Payday loan","Payday loan",75
+"Iowa","Prepaid card","Payroll card",2
+"Iowa","Consumer Loan","Personal line of credit",7
+"Iowa","Mortgage","Reverse mortgage",3
+"Iowa","Bank account or service","Savings account",9
+"Iowa","Mortgage","Second mortgage",1
+"Iowa","Consumer Loan","Title loan",2
+"Iowa","Prepaid card","Transit card",1
+"Iowa","Mortgage","VA mortgage",26
+"Iowa","Consumer Loan","Vehicle lease",2
+"Iowa","Consumer Loan","Vehicle loan",43
+"Idaho","Bank account or service","(CD) Certificate of deposit",5
+"Idaho","Debt collection","Auto",9
+"Idaho","Bank account or service","Cashing a check without an account",1
+"Idaho","Bank account or service","Checking account",108
+"Idaho","Mortgage","Conventional adjustable mortgage (ARM)",40
+"Idaho","Mortgage","Conventional fixed mortgage",186
+"Idaho","Credit Card","Credit Card",230
+"Idaho","Debt collection","Credit card",78
+"Idaho","Credit reporting","Credit reporting",305
+"Idaho","Money transfers","Domestic (US) money transfer",8
+"Idaho","Mortgage","FHA mortgage",55
+"Idaho","Debt collection","Federal student loan",9
+"Idaho","Prepaid card","General purpose card",3
+"Idaho","Prepaid card","Gift or merchant card",1
+"Idaho","Prepaid card","Government benefit payment card",1
+"Idaho","Mortgage","Home equity loan or line of credit",29
+"Idaho","Debt collection","I do not know",79
+"Idaho","Consumer Loan","Installment loan",25
+"Idaho","Money transfers","International money transfer",7
+"Idaho","Debt collection","Medical",74
+"Idaho","Debt collection","Mortgage",14
+"Idaho","Student loan","Non-federal student loan",54
+"Idaho","Debt collection","Other (i.e. phone, health club, etc.)",120
+"Idaho","Bank account or service","Other bank product/service",29
+"Idaho","Mortgage","Other mortgage",197
+"Idaho","Debt collection","Payday loan",60
+"Idaho","Prepaid card","Payroll card",1
+"Idaho","Consumer Loan","Personal line of credit",7
+"Idaho","Mortgage","Reverse mortgage",9
+"Idaho","Bank account or service","Savings account",9
+"Idaho","Mortgage","Second mortgage",3
+"Idaho","Consumer Loan","Title loan",1
+"Idaho","Mortgage","VA mortgage",10
+"Idaho","Consumer Loan","Vehicle lease",5
+"Idaho","Consumer Loan","Vehicle loan",18
+"Illinois","Bank account or service","(CD) Certificate of deposit",94
+"Illinois","Debt collection","Auto",84
+"Illinois","Bank account or service","Cashing a check without an account",16
+"Illinois","Other financial service","Check cashing",5
+"Illinois","Bank account or service","Checking account",1796
+"Illinois","Mortgage","Conventional adjustable mortgage (ARM)",644
+"Illinois","Mortgage","Conventional fixed mortgage",2029
+"Illinois","Credit Card","Credit Card",2264
+"Illinois","Debt collection","Credit card",632
+"Illinois","Other financial service","Credit repair",3
+"Illinois","Credit reporting","Credit reporting",2992
+"Illinois","Other financial service","Debt settlement",3
+"Illinois","Money transfers","Domestic (US) money transfer",70
+"Illinois","Mortgage","FHA mortgage",684
+"Illinois","Debt collection","Federal student loan",58
+"Illinois","Other financial service","Foreign currency exchange",2
+"Illinois","Prepaid card","General purpose card",36
+"Illinois","Prepaid card","Gift or merchant card",4
+"Illinois","Prepaid card","Government benefit payment card",8
+"Illinois","Mortgage","Home equity loan or line of credit",353
+"Illinois","Debt collection","I do not know",726
+"Illinois","Prepaid card","ID prepaid card",7
+"Illinois","Consumer Loan","Installment loan",157
+"Illinois","Money transfers","International money transfer",51
+"Illinois","Debt collection","Medical",415
+"Illinois","Prepaid card","Mobile wallet",13
+"Illinois","Other financial service","Money order",3
+"Illinois","Debt collection","Mortgage",99
+"Illinois","Student loan","Non-federal student loan",732
+"Illinois","Debt collection","Other (i.e. phone, health club, etc.)",964
+"Illinois","Bank account or service","Other bank product/service",324
+"Illinois","Mortgage","Other mortgage",1958
+"Illinois","Prepaid card","Other special purpose card",4
+"Illinois","Consumer Loan","Pawn loan",4
+"Illinois","Debt collection","Payday loan",291
+"Illinois","Prepaid card","Payroll card",12
+"Illinois","Consumer Loan","Personal line of credit",50
+"Illinois","Mortgage","Reverse mortgage",35
+"Illinois","Bank account or service","Savings account",122
+"Illinois","Mortgage","Second mortgage",18
+"Illinois","Consumer Loan","Title loan",4
+"Illinois","Other financial service","Traveler/Cashier Checks",1
+"Illinois","Mortgage","VA mortgage",69
+"Illinois","Consumer Loan","Vehicle lease",35
+"Illinois","Consumer Loan","Vehicle loan",359
+"Indiana","Bank account or service","(CD) Certificate of deposit",21
+"Indiana","Debt collection","Auto",28
+"Indiana","Bank account or service","Cashing a check without an account",5
+"Indiana","Other financial service","Check cashing",3
+"Indiana","Bank account or service","Checking account",449
+"Indiana","Mortgage","Conventional adjustable mortgage (ARM)",110
+"Indiana","Mortgage","Conventional fixed mortgage",553
+"Indiana","Credit Card","Credit Card",674
+"Indiana","Debt collection","Credit card",287
+"Indiana","Other financial service","Credit repair",2
+"Indiana","Credit reporting","Credit reporting",959
+"Indiana","Other financial service","Debt settlement",1
+"Indiana","Money transfers","Domestic (US) money transfer",18
+"Indiana","Mortgage","FHA mortgage",275
+"Indiana","Debt collection","Federal student loan",24
+"Indiana","Prepaid card","General purpose card",14
+"Indiana","Prepaid card","Gift or merchant card",3
+"Indiana","Prepaid card","Government benefit payment card",2
+"Indiana","Mortgage","Home equity loan or line of credit",74
+"Indiana","Debt collection","I do not know",204
+"Indiana","Prepaid card","ID prepaid card",2
+"Indiana","Consumer Loan","Installment loan",68
+"Indiana","Money transfers","International money transfer",18
+"Indiana","Debt collection","Medical",194
+"Indiana","Debt collection","Mortgage",41
+"Indiana","Student loan","Non-federal student loan",320
+"Indiana","Debt collection","Other (i.e. phone, health club, etc.)",339
+"Indiana","Bank account or service","Other bank product/service",105
+"Indiana","Mortgage","Other mortgage",517
+"Indiana","Debt collection","Payday loan",130
+"Indiana","Prepaid card","Payroll card",3
+"Indiana","Consumer Loan","Personal line of credit",10
+"Indiana","Mortgage","Reverse mortgage",10
+"Indiana","Bank account or service","Savings account",30
+"Indiana","Mortgage","Second mortgage",6
+"Indiana","Consumer Loan","Title loan",3
+"Indiana","Mortgage","VA mortgage",44
+"Indiana","Consumer Loan","Vehicle lease",9
+"Indiana","Consumer Loan","Vehicle loan",124
+"Kansas","Bank account or service","(CD) Certificate of deposit",18
+"Kansas","Debt collection","Auto",11
+"Kansas","Bank account or service","Cashing a check without an account",2
+"Kansas","Other financial service","Check cashing",4
+"Kansas","Bank account or service","Checking account",153
+"Kansas","Mortgage","Conventional adjustable mortgage (ARM)",56
+"Kansas","Mortgage","Conventional fixed mortgage",233
+"Kansas","Credit Card","Credit Card",373
+"Kansas","Debt collection","Credit card",128
+"Kansas","Credit reporting","Credit reporting",382
+"Kansas","Money transfers","Domestic (US) money transfer",11
+"Kansas","Mortgage","FHA mortgage",83
+"Kansas","Debt collection","Federal student loan",20
+"Kansas","Prepaid card","General purpose card",7
+"Kansas","Prepaid card","Government benefit payment card",1
+"Kansas","Mortgage","Home equity loan or line of credit",22
+"Kansas","Debt collection","I do not know",103
+"Kansas","Consumer Loan","Installment loan",36
+"Kansas","Money transfers","International money transfer",6
+"Kansas","Debt collection","Medical",68
+"Kansas","Debt collection","Mortgage",10
+"Kansas","Student loan","Non-federal student loan",85
+"Kansas","Debt collection","Other (i.e. phone, health club, etc.)",175
+"Kansas","Bank account or service","Other bank product/service",55
+"Kansas","Mortgage","Other mortgage",203
+"Kansas","Payday loan","Payday loan",106
+"Kansas","Prepaid card","Payroll card",2
+"Kansas","Consumer Loan","Personal line of credit",8
+"Kansas","Mortgage","Reverse mortgage",6
+"Kansas","Bank account or service","Savings account",21
+"Kansas","Mortgage","Second mortgage",6
+"Kansas","Consumer Loan","Title loan",3
+"Kansas","Mortgage","VA mortgage",18
+"Kansas","Consumer Loan","Vehicle lease",2
+"Kansas","Consumer Loan","Vehicle loan",61
+"Kentucky","Bank account or service","(CD) Certificate of deposit",20
+"Kentucky","Debt collection","Auto",19
+"Kentucky","Bank account or service","Cashing a check without an account",4
+"Kentucky","Bank account or service","Checking account",294
+"Kentucky","Mortgage","Conventional adjustable mortgage (ARM)",80
+"Kentucky","Mortgage","Conventional fixed mortgage",342
+"Kentucky","Credit Card","Credit Card",413
+"Kentucky","Debt collection","Credit card",166
+"Kentucky","Credit reporting","Credit reporting",652
+"Kentucky","Other financial service","Debt settlement",1
+"Kentucky","Money transfers","Domestic (US) money transfer",9
+"Kentucky","Mortgage","FHA mortgage",144
+"Kentucky","Debt collection","Federal student loan",13
+"Kentucky","Prepaid card","General purpose card",6
+"Kentucky","Prepaid card","Gift or merchant card",2
+"Kentucky","Prepaid card","Government benefit payment card",3
+"Kentucky","Mortgage","Home equity loan or line of credit",33
+"Kentucky","Debt collection","I do not know",176
+"Kentucky","Prepaid card","ID prepaid card",2
+"Kentucky","Consumer Loan","Installment loan",47
+"Kentucky","Money transfers","International money transfer",10
+"Kentucky","Debt collection","Medical",147
+"Kentucky","Debt collection","Mortgage",21
+"Kentucky","Student loan","Non-federal student loan",144
+"Kentucky","Debt collection","Other (i.e. phone, health club, etc.)",261
+"Kentucky","Bank account or service","Other bank product/service",52
+"Kentucky","Mortgage","Other mortgage",354
+"Kentucky","Debt collection","Payday loan",82
+"Kentucky","Prepaid card","Payroll card",2
+"Kentucky","Consumer Loan","Personal line of credit",10
+"Kentucky","Other financial service","Refund anticipation check",1
+"Kentucky","Mortgage","Reverse mortgage",8
+"Kentucky","Bank account or service","Savings account",15
+"Kentucky","Mortgage","Second mortgage",1
+"Kentucky","Mortgage","VA mortgage",47
+"Kentucky","Consumer Loan","Vehicle lease",7
+"Kentucky","Consumer Loan","Vehicle loan",104
+"Louisiana","Bank account or service","(CD) Certificate of deposit",29
+"Louisiana","Debt collection","Auto",21
+"Louisiana","Bank account or service","Cashing a check without an account",7
+"Louisiana","Other financial service","Check cashing",1
+"Louisiana","Bank account or service","Checking account",314
+"Louisiana","Mortgage","Conventional adjustable mortgage (ARM)",91
+"Louisiana","Mortgage","Conventional fixed mortgage",495
+"Louisiana","Credit Card","Credit Card",444
+"Louisiana","Debt collection","Credit card",238
+"Louisiana","Credit reporting","Credit reporting",960
+"Louisiana","Other financial service","Debt settlement",2
+"Louisiana","Money transfers","Domestic (US) money transfer",16
+"Louisiana","Prepaid card","Electronic Benefit Transfer / EBT card",1
+"Louisiana","Mortgage","FHA mortgage",192
+"Louisiana","Debt collection","Federal student loan",25
+"Louisiana","Prepaid card","General purpose card",11
+"Louisiana","Prepaid card","Government benefit payment card",6
+"Louisiana","Mortgage","Home equity loan or line of credit",58
+"Louisiana","Debt collection","I do not know",286
+"Louisiana","Prepaid card","ID prepaid card",3
+"Louisiana","Consumer Loan","Installment loan",102
+"Louisiana","Money transfers","International money transfer",18
+"Louisiana","Debt collection","Medical",156
+"Louisiana","Debt collection","Mortgage",23
+"Louisiana","Student loan","Non-federal student loan",162
+"Louisiana","Debt collection","Other (i.e. phone, health club, etc.)",352
+"Louisiana","Bank account or service","Other bank product/service",78
+"Louisiana","Mortgage","Other mortgage",467
+"Louisiana","Prepaid card","Other special purpose card",1
+"Louisiana","Consumer Loan","Pawn loan",2
+"Louisiana","Debt collection","Payday loan",211
+"Louisiana","Prepaid card","Payroll card",8
+"Louisiana","Consumer Loan","Personal line of credit",19
+"Louisiana","Mortgage","Reverse mortgage",12
+"Louisiana","Bank account or service","Savings account",25
+"Louisiana","Mortgage","Second mortgage",3
+"Louisiana","Consumer Loan","Title loan",1
+"Louisiana","Prepaid card","Transit card",1
+"Louisiana","Mortgage","VA mortgage",38
+"Louisiana","Consumer Loan","Vehicle lease",11
+"Louisiana","Consumer Loan","Vehicle loan",111
+"Massachusetts","Bank account or service","(CD) Certificate of deposit",106
+"Massachusetts","Debt collection","Auto",23
+"Massachusetts","Bank account or service","Cashing a check without an account",25
+"Massachusetts","Other financial service","Check cashing",4
+"Massachusetts","Bank account or service","Checking account",1176
+"Massachusetts","Mortgage","Conventional adjustable mortgage (ARM)",360
+"Massachusetts","Mortgage","Conventional fixed mortgage",1396
+"Massachusetts","Credit Card","Credit Card",1618
+"Massachusetts","Debt collection","Credit card",401
+"Massachusetts","Other financial service","Credit repair",2
+"Massachusetts","Credit reporting","Credit reporting",1263
+"Massachusetts","Other financial service","Debt settlement",5
+"Massachusetts","Money transfers","Domestic (US) money transfer",40
+"Massachusetts","Mortgage","FHA mortgage",275
+"Massachusetts","Debt collection","Federal student loan",42
+"Massachusetts","Prepaid card","General purpose card",27
+"Massachusetts","Prepaid card","Gift or merchant card",5
+"Massachusetts","Prepaid card","Government benefit payment card",4
+"Massachusetts","Mortgage","Home equity loan or line of credit",246
+"Massachusetts","Debt collection","I do not know",256
+"Massachusetts","Prepaid card","ID prepaid card",3
+"Massachusetts","Consumer Loan","Installment loan",61
+"Massachusetts","Money transfers","International money transfer",67
+"Massachusetts","Debt collection","Medical",93
+"Massachusetts","Prepaid card","Mobile wallet",5
+"Massachusetts","Other financial service","Money order",2
+"Massachusetts","Debt collection","Mortgage",51
+"Massachusetts","Student loan","Non-federal student loan",546
+"Massachusetts","Debt collection","Other (i.e. phone, health club, etc.)",343
+"Massachusetts","Bank account or service","Other bank product/service",250
+"Massachusetts","Mortgage","Other mortgage",1180
+"Massachusetts","Prepaid card","Other special purpose card",7
+"Massachusetts","Payday loan","Payday loan",78
+"Massachusetts","Prepaid card","Payroll card",4
+"Massachusetts","Consumer Loan","Personal line of credit",26
+"Massachusetts","Mortgage","Reverse mortgage",37
+"Massachusetts","Bank account or service","Savings account",122
+"Massachusetts","Mortgage","Second mortgage",15
+"Massachusetts","Consumer Loan","Title loan",1
+"Massachusetts","Mortgage","VA mortgage",26
+"Massachusetts","Consumer Loan","Vehicle lease",24
+"Massachusetts","Consumer Loan","Vehicle loan",163
+"Maryland","Bank account or service","(CD) Certificate of deposit",71
+"Maryland","Debt collection","Auto",68
+"Maryland","Bank account or service","Cashing a check without an account",8
+"Maryland","Other financial service","Check cashing",3
+"Maryland","Bank account or service","Checking account",1363
+"Maryland","Mortgage","Conventional adjustable mortgage (ARM)",845
+"Maryland","Mortgage","Conventional fixed mortgage",2047
+"Maryland","Credit Card","Credit Card",1888
+"Maryland","Debt collection","Credit card",435
+"Maryland","Other financial service","Credit repair",3
+"Maryland","Credit reporting","Credit reporting",2281
+"Maryland","Money transfers","Domestic (US) money transfer",49
+"Maryland","Mortgage","FHA mortgage",834
+"Maryland","Debt collection","Federal student loan",46
+"Maryland","Other financial service","Foreign currency exchange",1
+"Maryland","Prepaid card","General purpose card",28
+"Maryland","Prepaid card","Gift or merchant card",6
+"Maryland","Prepaid card","Government benefit payment card",1
+"Maryland","Mortgage","Home equity loan or line of credit",269
+"Maryland","Debt collection","I do not know",516
+"Maryland","Prepaid card","ID prepaid card",4
+"Maryland","Consumer Loan","Installment loan",112
+"Maryland","Money transfers","International money transfer",63
+"Maryland","Debt collection","Medical",310
+"Maryland","Prepaid card","Mobile wallet",3
+"Maryland","Debt collection","Mortgage",123
+"Maryland","Student loan","Non-federal student loan",527
+"Maryland","Debt collection","Other (i.e. phone, health club, etc.)",703
+"Maryland","Bank account or service","Other bank product/service",305
+"Maryland","Mortgage","Other mortgage",2459
+"Maryland","Prepaid card","Other special purpose card",3
+"Maryland","Consumer Loan","Pawn loan",1
+"Maryland","Payday loan","Payday loan",211
+"Maryland","Prepaid card","Payroll card",12
+"Maryland","Consumer Loan","Personal line of credit",49
+"Maryland","Mortgage","Reverse mortgage",50
+"Maryland","Bank account or service","Savings account",136
+"Maryland","Mortgage","Second mortgage",20
+"Maryland","Consumer Loan","Title loan",6
+"Maryland","Other financial service","Traveler/Cashier Checks",1
+"Maryland","Mortgage","VA mortgage",141
+"Maryland","Consumer Loan","Vehicle lease",36
+"Maryland","Consumer Loan","Vehicle loan",443
+"Maine","Bank account or service","(CD) Certificate of deposit",12
+"Maine","Debt collection","Auto",4
+"Maine","Bank account or service","Cashing a check without an account",8
+"Maine","Other financial service","Check cashing",1
+"Maine","Bank account or service","Checking account",128
+"Maine","Mortgage","Conventional adjustable mortgage (ARM)",36
+"Maine","Mortgage","Conventional fixed mortgage",213
+"Maine","Credit Card","Credit Card",325
+"Maine","Debt collection","Credit card",68
+"Maine","Other financial service","Credit repair",1
+"Maine","Credit reporting","Credit reporting",207
+"Maine","Money transfers","Domestic (US) money transfer",2
+"Maine","Mortgage","FHA mortgage",63
+"Maine","Debt collection","Federal student loan",6
+"Maine","Prepaid card","General purpose card",2
+"Maine","Prepaid card","Government benefit payment card",1
+"Maine","Mortgage","Home equity loan or line of credit",35
+"Maine","Debt collection","I do not know",76
+"Maine","Consumer Loan","Installment loan",17
+"Maine","Money transfers","International money transfer",3
+"Maine","Debt collection","Medical",28
+"Maine","Prepaid card","Mobile wallet",2
+"Maine","Debt collection","Mortgage",8
+"Maine","Student loan","Non-federal student loan",92
+"Maine","Debt collection","Other (i.e. phone, health club, etc.)",94
+"Maine","Bank account or service","Other bank product/service",32
+"Maine","Mortgage","Other mortgage",230
+"Maine","Debt collection","Payday loan",28
+"Maine","Consumer Loan","Personal line of credit",9
+"Maine","Other financial service","Refund anticipation check",1
+"Maine","Mortgage","Reverse mortgage",8
+"Maine","Bank account or service","Savings account",16
+"Maine","Mortgage","Second mortgage",1
+"Maine","Other financial service","Traveler/Cashier Checks",1
+"Maine","Mortgage","VA mortgage",17
+"Maine","Consumer Loan","Vehicle lease",2
+"Maine","Consumer Loan","Vehicle loan",36
+"Michigan","Bank account or service","(CD) Certificate of deposit",41
+"Michigan","Debt collection","Auto",63
+"Michigan","Bank account or service","Cashing a check without an account",11
+"Michigan","Other financial service","Check cashing",5
+"Michigan","Bank account or service","Checking account",1023
+"Michigan","Mortgage","Conventional adjustable mortgage (ARM)",434
+"Michigan","Mortgage","Conventional fixed mortgage",1468
+"Michigan","Credit Card","Credit Card",1357
+"Michigan","Debt collection","Credit card",474
+"Michigan","Other financial service","Credit repair",1
+"Michigan","Credit reporting","Credit reporting",1816
+"Michigan","Other financial service","Debt settlement",3
+"Michigan","Money transfers","Domestic (US) money transfer",37
+"Michigan","Mortgage","FHA mortgage",528
+"Michigan","Debt collection","Federal student loan",43
+"Michigan","Prepaid card","General purpose card",31
+"Michigan","Prepaid card","Gift or merchant card",6
+"Michigan","Prepaid card","Government benefit payment card",3
+"Michigan","Mortgage","Home equity loan or line of credit",276
+"Michigan","Debt collection","I do not know",461
+"Michigan","Prepaid card","ID prepaid card",5
+"Michigan","Consumer Loan","Installment loan",104
+"Michigan","Money transfers","International money transfer",37
+"Michigan","Debt collection","Medical",247
+"Michigan","Prepaid card","Mobile wallet",5
+"Michigan","Debt collection","Mortgage",96
+"Michigan","Student loan","Non-federal student loan",568
+"Michigan","Debt collection","Other (i.e. phone, health club, etc.)",627
+"Michigan","Bank account or service","Other bank product/service",211
+"Michigan","Mortgage","Other mortgage",2750
+"Michigan","Prepaid card","Other special purpose card",3
+"Michigan","Consumer Loan","Pawn loan",1
+"Michigan","Debt collection","Payday loan",250
+"Michigan","Prepaid card","Payroll card",21
+"Michigan","Consumer Loan","Personal line of credit",33
+"Michigan","Mortgage","Reverse mortgage",27
+"Michigan","Bank account or service","Savings account",117
+"Michigan","Mortgage","Second mortgage",19
+"Michigan","Consumer Loan","Title loan",4
+"Michigan","Prepaid card","Transit card",1
+"Michigan","Mortgage","VA mortgage",52
+"Michigan","Consumer Loan","Vehicle lease",82
+"Michigan","Consumer Loan","Vehicle loan",284
+"Minnesota","Bank account or service","(CD) Certificate of deposit",43
+"Minnesota","Debt collection","Auto",28
+"Minnesota","Bank account or service","Cashing a check without an account",3
+"Minnesota","Other financial service","Check cashing",1
+"Minnesota","Bank account or service","Checking account",536
+"Minnesota","Mortgage","Conventional adjustable mortgage (ARM)",214
+"Minnesota","Mortgage","Conventional fixed mortgage",676
+"Minnesota","Credit Card","Credit Card",839
+"Minnesota","Debt collection","Credit card",270
+"Minnesota","Other financial service","Credit repair",1
+"Minnesota","Credit reporting","Credit reporting",708
+"Minnesota","Other financial service","Debt settlement",3
+"Minnesota","Money transfers","Domestic (US) money transfer",18
+"Minnesota","Mortgage","FHA mortgage",213
+"Minnesota","Debt collection","Federal student loan",24
+"Minnesota","Other financial service","Foreign currency exchange",1
+"Minnesota","Prepaid card","General purpose card",15
+"Minnesota","Prepaid card","Gift or merchant card",3
+"Minnesota","Prepaid card","Government benefit payment card",2
+"Minnesota","Mortgage","Home equity loan or line of credit",98
+"Minnesota","Debt collection","I do not know",183
+"Minnesota","Consumer Loan","Installment loan",41
+"Minnesota","Money transfers","International money transfer",32
+"Minnesota","Debt collection","Medical",64
+"Minnesota","Prepaid card","Mobile wallet",4
+"Minnesota","Other financial service","Money order",1
+"Minnesota","Debt collection","Mortgage",35
+"Minnesota","Student loan","Non-federal student loan",281
+"Minnesota","Debt collection","Other (i.e. phone, health club, etc.)",273
+"Minnesota","Bank account or service","Other bank product/service",99
+"Minnesota","Mortgage","Other mortgage",948
+"Minnesota","Prepaid card","Other special purpose card",2
+"Minnesota","Debt collection","Payday loan",91
+"Minnesota","Prepaid card","Payroll card",3
+"Minnesota","Consumer Loan","Personal line of credit",19
+"Minnesota","Mortgage","Reverse mortgage",13
+"Minnesota","Bank account or service","Savings account",29
+"Minnesota","Mortgage","Second mortgage",16
+"Minnesota","Consumer Loan","Title loan",2
+"Minnesota","Prepaid card","Transit card",1
+"Minnesota","Other financial service","Traveler/Cashier Checks",1
+"Minnesota","Mortgage","VA mortgage",23
+"Minnesota","Consumer Loan","Vehicle lease",14
+"Minnesota","Consumer Loan","Vehicle loan",87
+"Missouri","Bank account or service","(CD) Certificate of deposit",31
+"Missouri","Debt collection","Auto",43
+"Missouri","Bank account or service","Cashing a check without an account",7
+"Missouri","Other financial service","Check cashing",3
+"Missouri","Bank account or service","Checking account",432
+"Missouri","Mortgage","Conventional adjustable mortgage (ARM)",154
+"Missouri","Mortgage","Conventional fixed mortgage",731
+"Missouri","Credit Card","Credit Card",740
+"Missouri","Debt collection","Credit card",259
+"Missouri","Credit reporting","Credit reporting",938
+"Missouri","Other financial service","Debt settlement",2
+"Missouri","Money transfers","Domestic (US) money transfer",29
+"Missouri","Mortgage","FHA mortgage",343
+"Missouri","Debt collection","Federal student loan",39
+"Missouri","Prepaid card","General purpose card",17
+"Missouri","Prepaid card","Gift or merchant card",1
+"Missouri","Prepaid card","Government benefit payment card",5
+"Missouri","Mortgage","Home equity loan or line of credit",69
+"Missouri","Debt collection","I do not know",297
+"Missouri","Prepaid card","ID prepaid card",2
+"Missouri","Consumer Loan","Installment loan",107
+"Missouri","Money transfers","International money transfer",21
+"Missouri","Debt collection","Medical",220
+"Missouri","Prepaid card","Mobile wallet",4
+"Missouri","Debt collection","Mortgage",30
+"Missouri","Student loan","Non-federal student loan",289
+"Missouri","Debt collection","Other (i.e. phone, health club, etc.)",380
+"Missouri","Bank account or service","Other bank product/service",98
+"Missouri","Mortgage","Other mortgage",856
+"Missouri","Prepaid card","Other special purpose card",1
+"Missouri","Consumer Loan","Pawn loan",1
+"Missouri","Debt collection","Payday loan",250
+"Missouri","Prepaid card","Payroll card",6
+"Missouri","Consumer Loan","Personal line of credit",18
+"Missouri","Mortgage","Reverse mortgage",23
+"Missouri","Bank account or service","Savings account",39
+"Missouri","Mortgage","Second mortgage",7
+"Missouri","Consumer Loan","Title loan",5
+"Missouri","Prepaid card","Transit card",2
+"Missouri","Mortgage","VA mortgage",54
+"Missouri","Consumer Loan","Vehicle lease",13
+"Missouri","Consumer Loan","Vehicle loan",177
+"Mississippi","Bank account or service","(CD) Certificate of deposit",10
+"Mississippi","Debt collection","Auto",15
+"Mississippi","Bank account or service","Cashing a check without an account",8
+"Mississippi","Other financial service","Check cashing",2
+"Mississippi","Bank account or service","Checking account",184
+"Mississippi","Mortgage","Conventional adjustable mortgage (ARM)",48
+"Mississippi","Mortgage","Conventional fixed mortgage",226
+"Mississippi","Credit Card","Credit Card",234
+"Mississippi","Debt collection","Credit card",57
+"Mississippi","Other financial service","Credit repair",1
+"Mississippi","Credit reporting","Credit reporting",437
+"Mississippi","Money transfers","Domestic (US) money transfer",9
+"Mississippi","Mortgage","FHA mortgage",91
+"Mississippi","Debt collection","Federal student loan",7
+"Mississippi","Prepaid card","General purpose card",8
+"Mississippi","Mortgage","Home equity loan or line of credit",26
+"Mississippi","Debt collection","I do not know",83
+"Mississippi","Consumer Loan","Installment loan",76
+"Mississippi","Money transfers","International money transfer",7
+"Mississippi","Debt collection","Medical",115
+"Mississippi","Prepaid card","Mobile wallet",1
+"Mississippi","Other financial service","Money order",1
+"Mississippi","Debt collection","Mortgage",11
+"Mississippi","Student loan","Non-federal student loan",76
+"Mississippi","Debt collection","Other (i.e. phone, health club, etc.)",159
+"Mississippi","Bank account or service","Other bank product/service",38
+"Mississippi","Mortgage","Other mortgage",219
+"Mississippi","Prepaid card","Other special purpose card",1
+"Mississippi","Debt collection","Payday loan",82
+"Mississippi","Prepaid card","Payroll card",7
+"Mississippi","Consumer Loan","Personal line of credit",8
+"Mississippi","Mortgage","Reverse mortgage",6
+"Mississippi","Bank account or service","Savings account",14
+"Mississippi","Mortgage","Second mortgage",2
+"Mississippi","Consumer Loan","Title loan",1
+"Mississippi","Mortgage","VA mortgage",24
+"Mississippi","Consumer Loan","Vehicle lease",5
+"Mississippi","Consumer Loan","Vehicle loan",86
+"Montana","Bank account or service","(CD) Certificate of deposit",3
+"Montana","Debt collection","Auto",7
+"Montana","Bank account or service","Checking account",45
+"Montana","Mortgage","Conventional adjustable mortgage (ARM)",13
+"Montana","Mortgage","Conventional fixed mortgage",82
+"Montana","Credit Card","Credit Card",122
+"Montana","Debt collection","Credit card",44
+"Montana","Credit reporting","Credit reporting",148
+"Montana","Money transfers","Domestic (US) money transfer",2
+"Montana","Mortgage","FHA mortgage",22
+"Montana","Debt collection","Federal student loan",3
+"Montana","Prepaid card","General purpose card",4
+"Montana","Mortgage","Home equity loan or line of credit",7
+"Montana","Debt collection","I do not know",46
+"Montana","Consumer Loan","Installment loan",8
+"Montana","Money transfers","International money transfer",2
+"Montana","Debt collection","Medical",35
+"Montana","Prepaid card","Mobile wallet",1
+"Montana","Debt collection","Mortgage",3
+"Montana","Student loan","Non-federal student loan",42
+"Montana","Debt collection","Other (i.e. phone, health club, etc.)",56
+"Montana","Bank account or service","Other bank product/service",13
+"Montana","Mortgage","Other mortgage",81
+"Montana","Debt collection","Payday loan",25
+"Montana","Consumer Loan","Personal line of credit",3
+"Montana","Mortgage","Reverse mortgage",2
+"Montana","Bank account or service","Savings account",1
+"Montana","Mortgage","VA mortgage",6
+"Montana","Consumer Loan","Vehicle lease",2
+"Montana","Consumer Loan","Vehicle loan",12
+"North Carolina","Bank account or service","(CD) Certificate of deposit",70
+"North Carolina","Debt collection","Auto",78
+"North Carolina","Bank account or service","Cashing a check without an account",12
+"North Carolina","Other financial service","Check cashing",5
+"North Carolina","Bank account or service","Checking account",1100
+"North Carolina","Mortgage","Conventional adjustable mortgage (ARM)",418
+"North Carolina","Mortgage","Conventional fixed mortgage",1712
+"North Carolina","Credit Card","Credit Card",1726
+"North Carolina","Debt collection","Credit card",391
+"North Carolina","Other financial service","Credit repair",5
+"North Carolina","Credit reporting","Credit reporting",2429
+"North Carolina","Other financial service","Debt settlement",3
+"North Carolina","Money transfers","Domestic (US) money transfer",44
+"North Carolina","Mortgage","FHA mortgage",639
+"North Carolina","Debt collection","Federal student loan",47
+"North Carolina","Other financial service","Foreign currency exchange",2
+"North Carolina","Prepaid card","General purpose card",32
+"North Carolina","Prepaid card","Gift or merchant card",2
+"North Carolina","Prepaid card","Government benefit payment card",9
+"North Carolina","Mortgage","Home equity loan or line of credit",294
+"North Carolina","Debt collection","I do not know",443
+"North Carolina","Prepaid card","ID prepaid card",4
+"North Carolina","Consumer Loan","Installment loan",162
+"North Carolina","Money transfers","International money transfer",49
+"North Carolina","Debt collection","Medical",315
+"North Carolina","Prepaid card","Mobile wallet",9
+"North Carolina","Other financial service","Money order",5
+"North Carolina","Debt collection","Mortgage",109
+"North Carolina","Student loan","Non-federal student loan",392
+"North Carolina","Debt collection","Other (i.e. phone, health club, etc.)",658
+"North Carolina","Bank account or service","Other bank product/service",302
+"North Carolina","Mortgage","Other mortgage",1995
+"North Carolina","Consumer Loan","Pawn loan",3
+"North Carolina","Debt collection","Payday loan",194
+"North Carolina","Prepaid card","Payroll card",11
+"North Carolina","Consumer Loan","Personal line of credit",53
+"North Carolina","Mortgage","Reverse mortgage",29
+"North Carolina","Bank account or service","Savings account",103
+"North Carolina","Mortgage","Second mortgage",20
+"North Carolina","Consumer Loan","Title loan",16
+"North Carolina","Prepaid card","Transit card",1
+"North Carolina","Mortgage","VA mortgage",183
+"North Carolina","Consumer Loan","Vehicle lease",40
+"North Carolina","Consumer Loan","Vehicle loan",414
+"North Dakota","Bank account or service","(CD) Certificate of deposit",3
+"North Dakota","Debt collection","Auto",3
+"North Dakota","Bank account or service","Cashing a check without an account",1
+"North Dakota","Bank account or service","Checking account",28
+"North Dakota","Mortgage","Conventional adjustable mortgage (ARM)",5
+"North Dakota","Mortgage","Conventional fixed mortgage",38
+"North Dakota","Credit Card","Credit Card",55
+"North Dakota","Debt collection","Credit card",27
+"North Dakota","Credit reporting","Credit reporting",112
+"North Dakota","Mortgage","FHA mortgage",6
+"North Dakota","Debt collection","Federal student loan",2
+"North Dakota","Prepaid card","Government benefit payment card",1
+"North Dakota","Mortgage","Home equity loan or line of credit",3
+"North Dakota","Debt collection","I do not know",21
+"North Dakota","Consumer Loan","Installment loan",8
+"North Dakota","Money transfers","International money transfer",2
+"North Dakota","Debt collection","Medical",18
+"North Dakota","Debt collection","Mortgage",1
+"North Dakota","Student loan","Non-federal student loan",15
+"North Dakota","Debt collection","Other (i.e. phone, health club, etc.)",31
+"North Dakota","Bank account or service","Other bank product/service",5
+"North Dakota","Mortgage","Other mortgage",24
+"North Dakota","Debt collection","Payday loan",8
+"North Dakota","Prepaid card","Payroll card",1
+"North Dakota","Consumer Loan","Personal line of credit",2
+"North Dakota","Mortgage","Reverse mortgage",1
+"North Dakota","Mortgage","VA mortgage",8
+"North Dakota","Consumer Loan","Vehicle loan",11
+"Nebraska","Bank account or service","(CD) Certificate of deposit",9
+"Nebraska","Debt collection","Auto",5
+"Nebraska","Bank account or service","Cashing a check without an account",3
+"Nebraska","Bank account or service","Checking account",139
+"Nebraska","Mortgage","Conventional adjustable mortgage (ARM)",27
+"Nebraska","Mortgage","Conventional fixed mortgage",156
+"Nebraska","Credit Card","Credit Card",249
+"Nebraska","Debt collection","Credit card",92
+"Nebraska","Credit reporting","Credit reporting",180
+"Nebraska","Other financial service","Debt settlement",1
+"Nebraska","Money transfers","Domestic (US) money transfer",7
+"Nebraska","Mortgage","FHA mortgage",61
+"Nebraska","Debt collection","Federal student loan",11
+"Nebraska","Prepaid card","General purpose card",7
+"Nebraska","Prepaid card","Gift or merchant card",1
+"Nebraska","Prepaid card","Government benefit payment card",1
+"Nebraska","Mortgage","Home equity loan or line of credit",16
+"Nebraska","Debt collection","I do not know",86
+"Nebraska","Prepaid card","ID prepaid card",1
+"Nebraska","Consumer Loan","Installment loan",16
+"Nebraska","Money transfers","International money transfer",7
+"Nebraska","Debt collection","Medical",64
+"Nebraska","Debt collection","Mortgage",5
+"Nebraska","Student loan","Non-federal student loan",75
+"Nebraska","Debt collection","Other (i.e. phone, health club, etc.)",109
+"Nebraska","Bank account or service","Other bank product/service",34
+"Nebraska","Mortgage","Other mortgage",151
+"Nebraska","Debt collection","Payday loan",32
+"Nebraska","Consumer Loan","Personal line of credit",5
+"Nebraska","Mortgage","Reverse mortgage",4
+"Nebraska","Bank account or service","Savings account",4
+"Nebraska","Mortgage","Second mortgage",2
+"Nebraska","Mortgage","VA mortgage",15
+"Nebraska","Consumer Loan","Vehicle lease",5
+"Nebraska","Consumer Loan","Vehicle loan",38
+"New Hampshire","Bank account or service","(CD) Certificate of deposit",18
+"New Hampshire","Debt collection","Auto",5
+"New Hampshire","Bank account or service","Cashing a check without an account",3
+"New Hampshire","Bank account or service","Checking account",201
+"New Hampshire","Mortgage","Conventional adjustable mortgage (ARM)",77
+"New Hampshire","Mortgage","Conventional fixed mortgage",289
+"New Hampshire","Credit Card","Credit Card",303
+"New Hampshire","Debt collection","Credit card",84
+"New Hampshire","Credit reporting","Credit reporting",298
+"New Hampshire","Other financial service","Debt settlement",2
+"New Hampshire","Money transfers","Domestic (US) money transfer",1
+"New Hampshire","Mortgage","FHA mortgage",79
+"New Hampshire","Debt collection","Federal student loan",5
+"New Hampshire","Prepaid card","General purpose card",5
+"New Hampshire","Prepaid card","Gift or merchant card",1
+"New Hampshire","Mortgage","Home equity loan or line of credit",47
+"New Hampshire","Debt collection","I do not know",78
+"New Hampshire","Consumer Loan","Installment loan",18
+"New Hampshire","Money transfers","International money transfer",7
+"New Hampshire","Debt collection","Medical",37
+"New Hampshire","Debt collection","Mortgage",11
+"New Hampshire","Student loan","Non-federal student loan",122
+"New Hampshire","Debt collection","Other (i.e. phone, health club, etc.)",78
+"New Hampshire","Bank account or service","Other bank product/service",34
+"New Hampshire","Mortgage","Other mortgage",729
+"New Hampshire","Payday loan","Payday loan",29
+"New Hampshire","Prepaid card","Payroll card",1
+"New Hampshire","Consumer Loan","Personal line of credit",6
+"New Hampshire","Mortgage","Reverse mortgage",7
+"New Hampshire","Bank account or service","Savings account",10
+"New Hampshire","Mortgage","Second mortgage",15
+"New Hampshire","Mortgage","VA mortgage",16
+"New Hampshire","Consumer Loan","Vehicle lease",3
+"New Hampshire","Consumer Loan","Vehicle loan",38
+"New Jersey","Bank account or service","(CD) Certificate of deposit",135
+"New Jersey","Debt collection","Auto",84
+"New Jersey","Bank account or service","Cashing a check without an account",25
+"New Jersey","Other financial service","Check cashing",9
+"New Jersey","Bank account or service","Checking account",2101
+"New Jersey","Mortgage","Conventional adjustable mortgage (ARM)",708
+"New Jersey","Mortgage","Conventional fixed mortgage",2303
+"New Jersey","Credit Card","Credit Card",2687
+"New Jersey","Debt collection","Credit card",729
+"New Jersey","Other financial service","Credit repair",3
+"New Jersey","Credit reporting","Credit reporting",2537
+"New Jersey","Other financial service","Debt settlement",6
+"New Jersey","Money transfers","Domestic (US) money transfer",53
+"New Jersey","Mortgage","FHA mortgage",855
+"New Jersey","Debt collection","Federal student loan",36
+"New Jersey","Prepaid card","General purpose card",42
+"New Jersey","Prepaid card","Gift or merchant card",8
+"New Jersey","Prepaid card","Government benefit payment card",6
+"New Jersey","Mortgage","Home equity loan or line of credit",442
+"New Jersey","Debt collection","I do not know",614
+"New Jersey","Prepaid card","ID prepaid card",7
+"New Jersey","Consumer Loan","Installment loan",146
+"New Jersey","Money transfers","International money transfer",76
+"New Jersey","Debt collection","Medical",441
+"New Jersey","Prepaid card","Mobile wallet",10
+"New Jersey","Other financial service","Money order",1
+"New Jersey","Debt collection","Mortgage",119
+"New Jersey","Student loan","Non-federal student loan",709
+"New Jersey","Debt collection","Other (i.e. phone, health club, etc.)",825
+"New Jersey","Bank account or service","Other bank product/service",407
+"New Jersey","Mortgage","Other mortgage",3471
+"New Jersey","Prepaid card","Other special purpose card",5
+"New Jersey","Consumer Loan","Pawn loan",2
+"New Jersey","Debt collection","Payday loan",246
+"New Jersey","Prepaid card","Payroll card",15
+"New Jersey","Consumer Loan","Personal line of credit",68
+"New Jersey","Mortgage","Reverse mortgage",60
+"New Jersey","Bank account or service","Savings account",215
+"New Jersey","Mortgage","Second mortgage",26
+"New Jersey","Consumer Loan","Title loan",3
+"New Jersey","Prepaid card","Transit card",1
+"New Jersey","Other financial service","Traveler/Cashier Checks",1
+"New Jersey","Mortgage","VA mortgage",60
+"New Jersey","Consumer Loan","Vehicle lease",89
+"New Jersey","Consumer Loan","Vehicle loan",436
+"New Mexico","Bank account or service","(CD) Certificate of deposit",10
+"New Mexico","Debt collection","Auto",10
+"New Mexico","Bank account or service","Cashing a check without an account",4
+"New Mexico","Bank account or service","Checking account",178
+"New Mexico","Mortgage","Conventional adjustable mortgage (ARM)",54
+"New Mexico","Mortgage","Conventional fixed mortgage",245
+"New Mexico","Credit Card","Credit Card",285
+"New Mexico","Debt collection","Credit card",77
+"New Mexico","Credit reporting","Credit reporting",536
+"New Mexico","Money transfers","Domestic (US) money transfer",11
+"New Mexico","Mortgage","FHA mortgage",88
+"New Mexico","Debt collection","Federal student loan",11
+"New Mexico","Prepaid card","General purpose card",2
+"New Mexico","Prepaid card","Gift or merchant card",1
+"New Mexico","Prepaid card","Government benefit payment card",3
+"New Mexico","Mortgage","Home equity loan or line of credit",23
+"New Mexico","Debt collection","I do not know",135
+"New Mexico","Consumer Loan","Installment loan",42
+"New Mexico","Money transfers","International money transfer",14
+"New Mexico","Debt collection","Medical",87
+"New Mexico","Prepaid card","Mobile wallet",1
+"New Mexico","Debt collection","Mortgage",22
+"New Mexico","Student loan","Non-federal student loan",65
+"New Mexico","Debt collection","Other (i.e. phone, health club, etc.)",132
+"New Mexico","Bank account or service","Other bank product/service",40
+"New Mexico","Mortgage","Other mortgage",231
+"New Mexico","Prepaid card","Other special purpose card",1
+"New Mexico","Debt collection","Payday loan",88
+"New Mexico","Prepaid card","Payroll card",1
+"New Mexico","Consumer Loan","Personal line of credit",8
+"New Mexico","Mortgage","Reverse mortgage",6
+"New Mexico","Bank account or service","Savings account",18
+"New Mexico","Mortgage","Second mortgage",2
+"New Mexico","Consumer Loan","Title loan",1
+"New Mexico","Other financial service","Traveler/Cashier Checks",1
+"New Mexico","Mortgage","VA mortgage",33
+"New Mexico","Consumer Loan","Vehicle lease",5
+"New Mexico","Consumer Loan","Vehicle loan",51
+"Nevada","Bank account or service","(CD) Certificate of deposit",20
+"Nevada","Debt collection","Auto",41
+"Nevada","Bank account or service","Cashing a check without an account",10
+"Nevada","Other financial service","Check cashing",1
+"Nevada","Bank account or service","Checking account",502
+"Nevada","Mortgage","Conventional adjustable mortgage (ARM)",263
+"Nevada","Mortgage","Conventional fixed mortgage",575
+"Nevada","Credit Card","Credit Card",688
+"Nevada","Debt collection","Credit card",188
+"Nevada","Credit reporting","Credit reporting",1197
+"Nevada","Other financial service","Debt settlement",1
+"Nevada","Money transfers","Domestic (US) money transfer",21
+"Nevada","Mortgage","FHA mortgage",186
+"Nevada","Debt collection","Federal student loan",18
+"Nevada","Prepaid card","General purpose card",20
+"Nevada","Prepaid card","Gift or merchant card",3
+"Nevada","Prepaid card","Government benefit payment card",1
+"Nevada","Mortgage","Home equity loan or line of credit",78
+"Nevada","Debt collection","I do not know",236
+"Nevada","Prepaid card","ID prepaid card",6
+"Nevada","Consumer Loan","Installment loan",64
+"Nevada","Money transfers","International money transfer",18
+"Nevada","Debt collection","Medical",238
+"Nevada","Prepaid card","Mobile wallet",2
+"Nevada","Debt collection","Mortgage",68
+"Nevada","Student loan","Non-federal student loan",135
+"Nevada","Debt collection","Other (i.e. phone, health club, etc.)",374
+"Nevada","Bank account or service","Other bank product/service",106
+"Nevada","Mortgage","Other mortgage",781
+"Nevada","Debt collection","Payday loan",167
+"Nevada","Prepaid card","Payroll card",4
+"Nevada","Consumer Loan","Personal line of credit",9
+"Nevada","Mortgage","Reverse mortgage",17
+"Nevada","Bank account or service","Savings account",36
+"Nevada","Mortgage","Second mortgage",8
+"Nevada","Consumer Loan","Title loan",4
+"Nevada","Mortgage","VA mortgage",59
+"Nevada","Consumer Loan","Vehicle lease",15
+"Nevada","Consumer Loan","Vehicle loan",119
+"New York","Bank account or service","(CD) Certificate of deposit",229
+"New York","Debt collection","Auto",120
+"New York","Bank account or service","Cashing a check without an account",30
+"New York","Other financial service","Check cashing",3
+"New York","Bank account or service","Checking account",3711
+"New York","Mortgage","Conventional adjustable mortgage (ARM)",820
+"New York","Mortgage","Conventional fixed mortgage",3203
+"New York","Credit Card","Credit Card",5838
+"New York","Debt collection","Credit card",1485
+"New York","Other financial service","Credit repair",2
+"New York","Credit reporting","Credit reporting",5534
+"New York","Other financial service","Debt settlement",14
+"New York","Money transfers","Domestic (US) money transfer",112
+"New York","Prepaid card","Electronic Benefit Transfer / EBT card",1
+"New York","Mortgage","FHA mortgage",824
+"New York","Debt collection","Federal student loan",95
+"New York","Other financial service","Foreign currency exchange",5
+"New York","Prepaid card","General purpose card",70
+"New York","Prepaid card","Gift or merchant card",8
+"New York","Prepaid card","Government benefit payment card",14
+"New York","Mortgage","Home equity loan or line of credit",629
+"New York","Debt collection","I do not know",1103
+"New York","Prepaid card","ID prepaid card",11
+"New York","Consumer Loan","Installment loan",169
+"New York","Money transfers","International money transfer",168
+"New York","Debt collection","Medical",505
+"New York","Prepaid card","Mobile wallet",15
+"New York","Other financial service","Money order",6
+"New York","Debt collection","Mortgage",129
+"New York","Student loan","Non-federal student loan",1412
+"New York","Debt collection","Other (i.e. phone, health club, etc.)",1693
+"New York","Bank account or service","Other bank product/service",832
+"New York","Mortgage","Other mortgage",5082
+"New York","Prepaid card","Other special purpose card",7
+"New York","Consumer Loan","Pawn loan",4
+"New York","Debt collection","Payday loan",133
+"New York","Prepaid card","Payroll card",19
+"New York","Consumer Loan","Personal line of credit",100
+"New York","Other financial service","Refund anticipation check",3
+"New York","Mortgage","Reverse mortgage",106
+"New York","Bank account or service","Savings account",413
+"New York","Mortgage","Second mortgage",41
+"New York","Consumer Loan","Title loan",3
+"New York","Prepaid card","Transit card",2
+"New York","Other financial service","Traveler/Cashier Checks",6
+"New York","Mortgage","VA mortgage",62
+"New York","Consumer Loan","Vehicle lease",155
+"New York","Consumer Loan","Vehicle loan",572
+"Ohio","Bank account or service","(CD) Certificate of deposit",71
+"Ohio","Debt collection","Auto",78
+"Ohio","Bank account or service","Cashing a check without an account",15
+"Ohio","Other financial service","Check cashing",8
+"Ohio","Bank account or service","Checking account",1370
+"Ohio","Mortgage","Conventional adjustable mortgage (ARM)",401
+"Ohio","Mortgage","Conventional fixed mortgage",1674
+"Ohio","Credit Card","Credit Card",2167
+"Ohio","Debt collection","Credit card",601
+"Ohio","Other financial service","Credit repair",1
+"Ohio","Credit reporting","Credit reporting",2239
+"Ohio","Other financial service","Debt settlement",5
+"Ohio","Money transfers","Domestic (US) money transfer",56
+"Ohio","Mortgage","FHA mortgage",736
+"Ohio","Debt collection","Federal student loan",60
+"Ohio","Other financial service","Foreign currency exchange",1
+"Ohio","Prepaid card","General purpose card",29
+"Ohio","Prepaid card","Gift or merchant card",4
+"Ohio","Prepaid card","Government benefit payment card",8
+"Ohio","Mortgage","Home equity loan or line of credit",292
+"Ohio","Debt collection","I do not know",685
+"Ohio","Prepaid card","ID prepaid card",6
+"Ohio","Consumer Loan","Installment loan",195
+"Ohio","Money transfers","International money transfer",45
+"Ohio","Debt collection","Medical",363
+"Ohio","Prepaid card","Mobile wallet",4
+"Ohio","Other financial service","Money order",2
+"Ohio","Debt collection","Mortgage",69
+"Ohio","Student loan","Non-federal student loan",750
+"Ohio","Debt collection","Other (i.e. phone, health club, etc.)",863
+"Ohio","Bank account or service","Other bank product/service",274
+"Ohio","Mortgage","Other mortgage",1697
+"Ohio","Prepaid card","Other special purpose card",6
+"Ohio","Consumer Loan","Pawn loan",2
+"Ohio","Debt collection","Payday loan",546
+"Ohio","Prepaid card","Payroll card",13
+"Ohio","Consumer Loan","Personal line of credit",53
+"Ohio","Mortgage","Reverse mortgage",35
+"Ohio","Bank account or service","Savings account",113
+"Ohio","Mortgage","Second mortgage",24
+"Ohio","Consumer Loan","Title loan",8
+"Ohio","Other financial service","Traveler/Cashier Checks",1
+"Ohio","Mortgage","VA mortgage",90
+"Ohio","Consumer Loan","Vehicle lease",77
+"Ohio","Consumer Loan","Vehicle loan",461
+"Oklahoma","Bank account or service","(CD) Certificate of deposit",12
+"Oklahoma","Debt collection","Auto",17
+"Oklahoma","Bank account or service","Cashing a check without an account",3
+"Oklahoma","Other financial service","Check cashing",1
+"Oklahoma","Bank account or service","Checking account",193
+"Oklahoma","Mortgage","Conventional adjustable mortgage (ARM)",54
+"Oklahoma","Mortgage","Conventional fixed mortgage",295
+"Oklahoma","Credit Card","Credit Card",398
+"Oklahoma","Debt collection","Credit card",165
+"Oklahoma","Other financial service","Credit repair",1
+"Oklahoma","Credit reporting","Credit reporting",606
+"Oklahoma","Other financial service","Debt settlement",1
+"Oklahoma","Money transfers","Domestic (US) money transfer",15
+"Oklahoma","Mortgage","FHA mortgage",145
+"Oklahoma","Debt collection","Federal student loan",17
+"Oklahoma","Prepaid card","General purpose card",9
+"Oklahoma","Prepaid card","Government benefit payment card",2
+"Oklahoma","Mortgage","Home equity loan or line of credit",26
+"Oklahoma","Debt collection","I do not know",184
+"Oklahoma","Prepaid card","ID prepaid card",1
+"Oklahoma","Consumer Loan","Installment loan",44
+"Oklahoma","Money transfers","International money transfer",7
+"Oklahoma","Debt collection","Medical",166
+"Oklahoma","Debt collection","Mortgage",13
+"Oklahoma","Student loan","Non-federal student loan",99
+"Oklahoma","Debt collection","Other (i.e. phone, health club, etc.)",258
+"Oklahoma","Bank account or service","Other bank product/service",53
+"Oklahoma","Mortgage","Other mortgage",278
+"Oklahoma","Debt collection","Payday loan",139
+"Oklahoma","Prepaid card","Payroll card",4
+"Oklahoma","Consumer Loan","Personal line of credit",6
+"Oklahoma","Mortgage","Reverse mortgage",13
+"Oklahoma","Bank account or service","Savings account",11
+"Oklahoma","Mortgage","Second mortgage",3
+"Oklahoma","Consumer Loan","Title loan",3
+"Oklahoma","Mortgage","VA mortgage",36
+"Oklahoma","Consumer Loan","Vehicle lease",4
+"Oklahoma","Consumer Loan","Vehicle loan",105
+"Oregon","Bank account or service","(CD) Certificate of deposit",27
+"Oregon","Debt collection","Auto",23
+"Oregon","Bank account or service","Cashing a check without an account",2
+"Oregon","Bank account or service","Checking account",532
+"Oregon","Mortgage","Conventional adjustable mortgage (ARM)",222
+"Oregon","Mortgage","Conventional fixed mortgage",723
+"Oregon","Credit Card","Credit Card",740
+"Oregon","Debt collection","Credit card",210
+"Oregon","Other financial service","Credit repair",1
+"Oregon","Credit reporting","Credit reporting",871
+"Oregon","Other financial service","Debt settlement",3
+"Oregon","Money transfers","Domestic (US) money transfer",13
+"Oregon","Mortgage","FHA mortgage",181
+"Oregon","Debt collection","Federal student loan",19
+"Oregon","Other financial service","Foreign currency exchange",1
+"Oregon","Prepaid card","General purpose card",10
+"Oregon","Prepaid card","Gift or merchant card",1
+"Oregon","Prepaid card","Government benefit payment card",2
+"Oregon","Mortgage","Home equity loan or line of credit",111
+"Oregon","Debt collection","I do not know",292
+"Oregon","Prepaid card","ID prepaid card",1
+"Oregon","Consumer Loan","Installment loan",51
+"Oregon","Money transfers","International money transfer",16
+"Oregon","Debt collection","Medical",155
+"Oregon","Prepaid card","Mobile wallet",5
+"Oregon","Other financial service","Money order",2
+"Oregon","Debt collection","Mortgage",45
+"Oregon","Student loan","Non-federal student loan",219
+"Oregon","Debt collection","Other (i.e. phone, health club, etc.)",346
+"Oregon","Bank account or service","Other bank product/service",127
+"Oregon","Mortgage","Other mortgage",849
+"Oregon","Prepaid card","Other special purpose card",3
+"Oregon","Debt collection","Payday loan",98
+"Oregon","Consumer Loan","Personal line of credit",28
+"Oregon","Mortgage","Reverse mortgage",34
+"Oregon","Bank account or service","Savings account",31
+"Oregon","Mortgage","Second mortgage",4
+"Oregon","Prepaid card","Transit card",2
+"Oregon","Other financial service","Traveler/Cashier Checks",1
+"Oregon","Mortgage","VA mortgage",35
+"Oregon","Consumer Loan","Vehicle lease",6
+"Oregon","Consumer Loan","Vehicle loan",89
+"Pennsylvania","Bank account or service","(CD) Certificate of deposit",146
+"Pennsylvania","Debt collection","Auto",81
+"Pennsylvania","Bank account or service","Cashing a check without an account",19
+"Pennsylvania","Other financial service","Check cashing",3
+"Pennsylvania","Bank account or service","Checking account",1849
+"Pennsylvania","Mortgage","Conventional adjustable mortgage (ARM)",464
+"Pennsylvania","Mortgage","Conventional fixed mortgage",2167
+"Pennsylvania","Credit Card","Credit Card",2419
+"Pennsylvania","Debt collection","Credit card",758
+"Pennsylvania","Other financial service","Credit repair",1
+"Pennsylvania","Credit reporting","Credit reporting",2722
+"Pennsylvania","Other financial service","Debt settlement",5
+"Pennsylvania","Money transfers","Domestic (US) money transfer",69
+"Pennsylvania","Mortgage","FHA mortgage",743
+"Pennsylvania","Debt collection","Federal student loan",61
+"Pennsylvania","Other financial service","Foreign currency exchange",2
+"Pennsylvania","Prepaid card","General purpose card",30
+"Pennsylvania","Prepaid card","Gift or merchant card",8
+"Pennsylvania","Prepaid card","Government benefit payment card",8
+"Pennsylvania","Mortgage","Home equity loan or line of credit",371
+"Pennsylvania","Debt collection","I do not know",684
+"Pennsylvania","Prepaid card","ID prepaid card",4
+"Pennsylvania","Consumer Loan","Installment loan",174
+"Pennsylvania","Money transfers","International money transfer",56
+"Pennsylvania","Debt collection","Medical",412
+"Pennsylvania","Prepaid card","Mobile wallet",6
+"Pennsylvania","Debt collection","Mortgage",86
+"Pennsylvania","Student loan","Non-federal student loan",1014
+"Pennsylvania","Debt collection","Other (i.e. phone, health club, etc.)",910
+"Pennsylvania","Bank account or service","Other bank product/service",404
+"Pennsylvania","Mortgage","Other mortgage",1826
+"Pennsylvania","Prepaid card","Other special purpose card",5
+"Pennsylvania","Consumer Loan","Pawn loan",4
+"Pennsylvania","Debt collection","Payday loan",272
+"Pennsylvania","Prepaid card","Payroll card",7
+"Pennsylvania","Consumer Loan","Personal line of credit",75
+"Pennsylvania","Mortgage","Reverse mortgage",58
+"Pennsylvania","Bank account or service","Savings account",142
+"Pennsylvania","Mortgage","Second mortgage",17
+"Pennsylvania","Consumer Loan","Title loan",5
+"Pennsylvania","Prepaid card","Transit card",2
+"Pennsylvania","Other financial service","Traveler/Cashier Checks",1
+"Pennsylvania","Mortgage","VA mortgage",86
+"Pennsylvania","Consumer Loan","Vehicle lease",63
+"Pennsylvania","Consumer Loan","Vehicle loan",419
+"Puerto Rico","Bank account or service","(CD) Certificate of deposit",7
+"Puerto Rico","Debt collection","Auto",6
+"Puerto Rico","Bank account or service","Cashing a check without an account",2
+"Puerto Rico","Other financial service","Check cashing",1
+"Puerto Rico","Bank account or service","Checking account",105
+"Puerto Rico","Mortgage","Conventional adjustable mortgage (ARM)",6
+"Puerto Rico","Mortgage","Conventional fixed mortgage",62
+"Puerto Rico","Credit Card","Credit Card",211
+"Puerto Rico","Debt collection","Credit card",39
+"Puerto Rico","Credit reporting","Credit reporting",339
+"Puerto Rico","Mortgage","FHA mortgage",22
+"Puerto Rico","Debt collection","Federal student loan",5
+"Puerto Rico","Prepaid card","Government benefit payment card",1
+"Puerto Rico","Mortgage","Home equity loan or line of credit",4
+"Puerto Rico","Debt collection","I do not know",25
+"Puerto Rico","Consumer Loan","Installment loan",8
+"Puerto Rico","Money transfers","International money transfer",5
+"Puerto Rico","Debt collection","Medical",14
+"Puerto Rico","Prepaid card","Mobile wallet",1
+"Puerto Rico","Debt collection","Mortgage",3
+"Puerto Rico","Student loan","Non-federal student loan",20
+"Puerto Rico","Debt collection","Other (i.e. phone, health club, etc.)",79
+"Puerto Rico","Bank account or service","Other bank product/service",36
+"Puerto Rico","Mortgage","Other mortgage",96
+"Puerto Rico","Consumer Loan","Pawn loan",3
+"Puerto Rico","Payday loan","Payday loan",3
+"Puerto Rico","Consumer Loan","Personal line of credit",11
+"Puerto Rico","Mortgage","Reverse mortgage",2
+"Puerto Rico","Bank account or service","Savings account",22
+"Puerto Rico","Mortgage","VA mortgage",4
+"Puerto Rico","Consumer Loan","Vehicle lease",5
+"Puerto Rico","Consumer Loan","Vehicle loan",21
+"Rhode Island","Bank account or service","(CD) Certificate of deposit",22
+"Rhode Island","Debt collection","Auto",11
+"Rhode Island","Bank account or service","Cashing a check without an account",2
+"Rhode Island","Bank account or service","Checking account",221
+"Rhode Island","Mortgage","Conventional adjustable mortgage (ARM)",55
+"Rhode Island","Mortgage","Conventional fixed mortgage",183
+"Rhode Island","Credit Card","Credit Card",250
+"Rhode Island","Debt collection","Credit card",77
+"Rhode Island","Other financial service","Credit repair",1
+"Rhode Island","Credit reporting","Credit reporting",231
+"Rhode Island","Other financial service","Debt settlement",1
+"Rhode Island","Money transfers","Domestic (US) money transfer",4
+"Rhode Island","Mortgage","FHA mortgage",58
+"Rhode Island","Debt collection","Federal student loan",8
+"Rhode Island","Prepaid card","General purpose card",2
+"Rhode Island","Mortgage","Home equity loan or line of credit",33
+"Rhode Island","Debt collection","I do not know",72
+"Rhode Island","Prepaid card","ID prepaid card",1
+"Rhode Island","Consumer Loan","Installment loan",15
+"Rhode Island","Money transfers","International money transfer",8
+"Rhode Island","Debt collection","Medical",12
+"Rhode Island","Debt collection","Mortgage",9
+"Rhode Island","Student loan","Non-federal student loan",65
+"Rhode Island","Debt collection","Other (i.e. phone, health club, etc.)",73
+"Rhode Island","Bank account or service","Other bank product/service",33
+"Rhode Island","Mortgage","Other mortgage",183
+"Rhode Island","Consumer Loan","Pawn loan",1
+"Rhode Island","Payday loan","Payday loan",60
+"Rhode Island","Prepaid card","Payroll card",1
+"Rhode Island","Consumer Loan","Personal line of credit",4
+"Rhode Island","Other financial service","Refund anticipation check",1
+"Rhode Island","Mortgage","Reverse mortgage",4
+"Rhode Island","Bank account or service","Savings account",19
+"Rhode Island","Mortgage","Second mortgage",2
+"Rhode Island","Consumer Loan","Title loan",1
+"Rhode Island","Prepaid card","Transit card",1
+"Rhode Island","Mortgage","VA mortgage",3
+"Rhode Island","Consumer Loan","Vehicle lease",23
+"Rhode Island","Consumer Loan","Vehicle loan",34
+"South Carolina","Bank account or service","(CD) Certificate of deposit",20
+"South Carolina","Debt collection","Auto",33
+"South Carolina","Bank account or service","Cashing a check without an account",9
+"South Carolina","Other financial service","Check cashing",3
+"South Carolina","Bank account or service","Checking account",406
+"South Carolina","Mortgage","Conventional adjustable mortgage (ARM)",151
+"South Carolina","Mortgage","Conventional fixed mortgage",671
+"South Carolina","Credit Card","Credit Card",629
+"South Carolina","Debt collection","Credit card",273
+"South Carolina","Other financial service","Credit repair",1
+"South Carolina","Credit reporting","Credit reporting",1223
+"South Carolina","Other financial service","Debt settlement",1
+"South Carolina","Money transfers","Domestic (US) money transfer",22
+"South Carolina","Mortgage","FHA mortgage",219
+"South Carolina","Debt collection","Federal student loan",28
+"South Carolina","Other financial service","Foreign currency exchange",1
+"South Carolina","Prepaid card","General purpose card",22
+"South Carolina","Prepaid card","Gift or merchant card",1
+"South Carolina","Mortgage","Home equity loan or line of credit",55
+"South Carolina","Debt collection","I do not know",318
+"South Carolina","Prepaid card","ID prepaid card",4
+"South Carolina","Consumer Loan","Installment loan",136
+"South Carolina","Money transfers","International money transfer",17
+"South Carolina","Debt collection","Medical",188
+"South Carolina","Prepaid card","Mobile wallet",2
+"South Carolina","Other financial service","Money order",3
+"South Carolina","Debt collection","Mortgage",33
+"South Carolina","Student loan","Non-federal student loan",208
+"South Carolina","Debt collection","Other (i.e. phone, health club, etc.)",396
+"South Carolina","Bank account or service","Other bank product/service",111
+"South Carolina","Mortgage","Other mortgage",662
+"South Carolina","Prepaid card","Other special purpose card",1
+"South Carolina","Consumer Loan","Pawn loan",2
+"South Carolina","Payday loan","Payday loan",179
+"South Carolina","Prepaid card","Payroll card",9
+"South Carolina","Consumer Loan","Personal line of credit",28
+"South Carolina","Other financial service","Refund anticipation check",1
+"South Carolina","Mortgage","Reverse mortgage",16
+"South Carolina","Bank account or service","Savings account",23
+"South Carolina","Mortgage","Second mortgage",6
+"South Carolina","Consumer Loan","Title loan",9
+"South Carolina","Prepaid card","Transit card",1
+"South Carolina","Mortgage","VA mortgage",84
+"South Carolina","Consumer Loan","Vehicle lease",16
+"South Carolina","Consumer Loan","Vehicle loan",182
+"South Dakota","Bank account or service","(CD) Certificate of deposit",1
+"South Dakota","Debt collection","Auto",7
+"South Dakota","Bank account or service","Checking account",54
+"South Dakota","Mortgage","Conventional adjustable mortgage (ARM)",10
+"South Dakota","Mortgage","Conventional fixed mortgage",50
+"South Dakota","Credit Card","Credit Card",132
+"South Dakota","Debt collection","Credit card",37
+"South Dakota","Credit reporting","Credit reporting",94
+"South Dakota","Money transfers","Domestic (US) money transfer",1
+"South Dakota","Mortgage","FHA mortgage",22
+"South Dakota","Debt collection","Federal student loan",1
+"South Dakota","Prepaid card","General purpose card",1
+"South Dakota","Mortgage","Home equity loan or line of credit",4
+"South Dakota","Debt collection","I do not know",41
+"South Dakota","Consumer Loan","Installment loan",7
+"South Dakota","Money transfers","International money transfer",3
+"South Dakota","Debt collection","Medical",37
+"South Dakota","Debt collection","Mortgage",4
+"South Dakota","Student loan","Non-federal student loan",32
+"South Dakota","Debt collection","Other (i.e. phone, health club, etc.)",37
+"South Dakota","Bank account or service","Other bank product/service",7
+"South Dakota","Mortgage","Other mortgage",61
+"South Dakota","Debt collection","Payday loan",24
+"South Dakota","Mortgage","Reverse mortgage",1
+"South Dakota","Bank account or service","Savings account",6
+"South Dakota","Mortgage","Second mortgage",1
+"South Dakota","Consumer Loan","Title loan",1
+"South Dakota","Mortgage","VA mortgage",6
+"South Dakota","Consumer Loan","Vehicle lease",2
+"South Dakota","Consumer Loan","Vehicle loan",25
+"Tennessee","Bank account or service","(CD) Certificate of deposit",29
+"Tennessee","Debt collection","Auto",52
+"Tennessee","Bank account or service","Cashing a check without an account",1
+"Tennessee","Other financial service","Check cashing",3
+"Tennessee","Bank account or service","Checking account",613
+"Tennessee","Mortgage","Conventional adjustable mortgage (ARM)",188
+"Tennessee","Mortgage","Conventional fixed mortgage",753
+"Tennessee","Credit Card","Credit Card",884
+"Tennessee","Debt collection","Credit card",319
+"Tennessee","Other financial service","Credit repair",2
+"Tennessee","Credit reporting","Credit reporting",1254
+"Tennessee","Money transfers","Domestic (US) money transfer",23
+"Tennessee","Mortgage","FHA mortgage",322
+"Tennessee","Debt collection","Federal student loan",30
+"Tennessee","Other financial service","Foreign currency exchange",1
+"Tennessee","Prepaid card","General purpose card",24
+"Tennessee","Prepaid card","Gift or merchant card",3
+"Tennessee","Prepaid card","Government benefit payment card",2
+"Tennessee","Mortgage","Home equity loan or line of credit",70
+"Tennessee","Debt collection","I do not know",369
+"Tennessee","Prepaid card","ID prepaid card",1
+"Tennessee","Consumer Loan","Installment loan",146
+"Tennessee","Money transfers","International money transfer",16
+"Tennessee","Debt collection","Medical",271
+"Tennessee","Prepaid card","Mobile wallet",1
+"Tennessee","Other financial service","Money order",1
+"Tennessee","Debt collection","Mortgage",38
+"Tennessee","Student loan","Non-federal student loan",262
+"Tennessee","Debt collection","Other (i.e. phone, health club, etc.)",535
+"Tennessee","Bank account or service","Other bank product/service",137
+"Tennessee","Mortgage","Other mortgage",769
+"Tennessee","Prepaid card","Other special purpose card",2
+"Tennessee","Consumer Loan","Pawn loan",3
+"Tennessee","Debt collection","Payday loan",266
+"Tennessee","Prepaid card","Payroll card",11
+"Tennessee","Consumer Loan","Personal line of credit",25
+"Tennessee","Mortgage","Reverse mortgage",21
+"Tennessee","Bank account or service","Savings account",42
+"Tennessee","Mortgage","Second mortgage",11
+"Tennessee","Consumer Loan","Title loan",9
+"Tennessee","Other financial service","Traveler/Cashier Checks",1
+"Tennessee","Mortgage","VA mortgage",65
+"Tennessee","Consumer Loan","Vehicle lease",5
+"Tennessee","Consumer Loan","Vehicle loan",220
+"Texas","Bank account or service","(CD) Certificate of deposit",137
+"Texas","Debt collection","Auto",188
+"Texas","Bank account or service","Cashing a check without an account",25
+"Texas","Other financial service","Check cashing",11
+"Texas","Bank account or service","Checking account",2436
+"Texas","Mortgage","Conventional adjustable mortgage (ARM)",670
+"Texas","Mortgage","Conventional fixed mortgage",2836
+"Texas","Credit Card","Credit Card",3934
+"Texas","Debt collection","Credit card",1577
+"Texas","Other financial service","Credit repair",6
+"Texas","Credit reporting","Credit reporting",10192
+"Texas","Other financial service","Debt settlement",5
+"Texas","Money transfers","Domestic (US) money transfer",109
+"Texas","Mortgage","FHA mortgage",1286
+"Texas","Debt collection","Federal student loan",101
+"Texas","Prepaid card","General purpose card",65
+"Texas","Prepaid card","Gift or merchant card",16
+"Texas","Prepaid card","Government benefit payment card",18
+"Texas","Mortgage","Home equity loan or line of credit",359
+"Texas","Debt collection","I do not know",2342
+"Texas","Prepaid card","ID prepaid card",10
+"Texas","Consumer Loan","Installment loan",408
+"Texas","Money transfers","International money transfer",158
+"Texas","Debt collection","Medical",1114
+"Texas","Prepaid card","Mobile wallet",13
+"Texas","Other financial service","Money order",3
+"Texas","Debt collection","Mortgage",153
+"Texas","Student loan","Non-federal student loan",830
+"Texas","Debt collection","Other (i.e. phone, health club, etc.)",2742
+"Texas","Bank account or service","Other bank product/service",617
+"Texas","Mortgage","Other mortgage",2782
+"Texas","Prepaid card","Other special purpose card",8
+"Texas","Consumer Loan","Pawn loan",2
+"Texas","Debt collection","Payday loan",1283
+"Texas","Prepaid card","Payroll card",26
+"Texas","Consumer Loan","Personal line of credit",88
+"Texas","Other financial service","Refund anticipation check",2
+"Texas","Mortgage","Reverse mortgage",104
+"Texas","Bank account or service","Savings account",186
+"Texas","Mortgage","Second mortgage",18
+"Texas","Consumer Loan","Title loan",41
+"Texas","Prepaid card","Transit card",1
+"Texas","Other financial service","Traveler/Cashier Checks",4
+"Texas","Mortgage","VA mortgage",343
+"Texas","Consumer Loan","Vehicle lease",70
+"Texas","Consumer Loan","Vehicle loan",1029
+"Utah","Bank account or service","(CD) Certificate of deposit",7
+"Utah","Debt collection","Auto",25
+"Utah","Bank account or service","Cashing a check without an account",2
+"Utah","Bank account or service","Checking account",152
+"Utah","Mortgage","Conventional adjustable mortgage (ARM)",87
+"Utah","Mortgage","Conventional fixed mortgage",350
+"Utah","Credit Card","Credit Card",322
+"Utah","Debt collection","Credit card",139
+"Utah","Credit reporting","Credit reporting",406
+"Utah","Money transfers","Domestic (US) money transfer",6
+"Utah","Mortgage","FHA mortgage",148
+"Utah","Debt collection","Federal student loan",7
+"Utah","Prepaid card","General purpose card",3
+"Utah","Mortgage","Home equity loan or line of credit",44
+"Utah","Debt collection","I do not know",130
+"Utah","Consumer Loan","Installment loan",19
+"Utah","Money transfers","International money transfer",11
+"Utah","Debt collection","Medical",94
+"Utah","Prepaid card","Mobile wallet",4
+"Utah","Other financial service","Money order",1
+"Utah","Debt collection","Mortgage",12
+"Utah","Student loan","Non-federal student loan",80
+"Utah","Debt collection","Other (i.e. phone, health club, etc.)",190
+"Utah","Bank account or service","Other bank product/service",39
+"Utah","Mortgage","Other mortgage",278
+"Utah","Consumer Loan","Pawn loan",1
+"Utah","Debt collection","Payday loan",63
+"Utah","Prepaid card","Payroll card",1
+"Utah","Consumer Loan","Personal line of credit",5
+"Utah","Other financial service","Refund anticipation check",1
+"Utah","Mortgage","Reverse mortgage",9
+"Utah","Bank account or service","Savings account",17
+"Utah","Mortgage","Second mortgage",1
+"Utah","Consumer Loan","Title loan",2
+"Utah","Mortgage","VA mortgage",19
+"Utah","Consumer Loan","Vehicle lease",8
+"Utah","Consumer Loan","Vehicle loan",48
+"Virginia","Bank account or service","(CD) Certificate of deposit",84
+"Virginia","Debt collection","Auto",71
+"Virginia","Bank account or service","Cashing a check without an account",16
+"Virginia","Other financial service","Check cashing",5
+"Virginia","Bank account or service","Checking account",1190
+"Virginia","Mortgage","Conventional adjustable mortgage (ARM)",742
+"Virginia","Mortgage","Conventional fixed mortgage",1774
+"Virginia","Credit Card","Credit Card",2146
+"Virginia","Debt collection","Credit card",544
+"Virginia","Credit reporting","Credit reporting",3172
+"Virginia","Other financial service","Debt settlement",1
+"Virginia","Money transfers","Domestic (US) money transfer",65
+"Virginia","Mortgage","FHA mortgage",551
+"Virginia","Debt collection","Federal student loan",50
+"Virginia","Prepaid card","General purpose card",23
+"Virginia","Prepaid card","Gift or merchant card",12
+"Virginia","Prepaid card","Government benefit payment card",5
+"Virginia","Mortgage","Home equity loan or line of credit",262
+"Virginia","Debt collection","I do not know",625
+"Virginia","Prepaid card","ID prepaid card",5
+"Virginia","Consumer Loan","Installment loan",167
+"Virginia","Money transfers","International money transfer",64
+"Virginia","Debt collection","Medical",350
+"Virginia","Prepaid card","Mobile wallet",7
+"Virginia","Other financial service","Money order",1
+"Virginia","Debt collection","Mortgage",108
+"Virginia","Student loan","Non-federal student loan",538
+"Virginia","Debt collection","Other (i.e. phone, health club, etc.)",833
+"Virginia","Bank account or service","Other bank product/service",327
+"Virginia","Mortgage","Other mortgage",1848
+"Virginia","Prepaid card","Other special purpose card",1
+"Virginia","Consumer Loan","Pawn loan",1
+"Virginia","Debt collection","Payday loan",310
+"Virginia","Prepaid card","Payroll card",12
+"Virginia","Consumer Loan","Personal line of credit",43
+"Virginia","Other financial service","Refund anticipation check",2
+"Virginia","Mortgage","Reverse mortgage",33
+"Virginia","Bank account or service","Savings account",98
+"Virginia","Mortgage","Second mortgage",20
+"Virginia","Consumer Loan","Title loan",11
+"Virginia","Prepaid card","Transit card",1
+"Virginia","Mortgage","VA mortgage",263
+"Virginia","Consumer Loan","Vehicle lease",50
+"Virginia","Consumer Loan","Vehicle loan",393
+"Vermont","Bank account or service","(CD) Certificate of deposit",10
+"Vermont","Debt collection","Auto",1
+"Vermont","Bank account or service","Checking account",76
+"Vermont","Mortgage","Conventional adjustable mortgage (ARM)",13
+"Vermont","Mortgage","Conventional fixed mortgage",97
+"Vermont","Credit Card","Credit Card",149
+"Vermont","Debt collection","Credit card",34
+"Vermont","Credit reporting","Credit reporting",105
+"Vermont","Money transfers","Domestic (US) money transfer",2
+"Vermont","Mortgage","FHA mortgage",14
+"Vermont","Debt collection","Federal student loan",1
+"Vermont","Prepaid card","General purpose card",1
+"Vermont","Prepaid card","Gift or merchant card",3
+"Vermont","Mortgage","Home equity loan or line of credit",18
+"Vermont","Debt collection","I do not know",19
+"Vermont","Consumer Loan","Installment loan",7
+"Vermont","Money transfers","International money transfer",6
+"Vermont","Debt collection","Medical",11
+"Vermont","Debt collection","Mortgage",4
+"Vermont","Student loan","Non-federal student loan",55
+"Vermont","Debt collection","Other (i.e. phone, health club, etc.)",37
+"Vermont","Bank account or service","Other bank product/service",26
+"Vermont","Mortgage","Other mortgage",142
+"Vermont","Debt collection","Payday loan",8
+"Vermont","Consumer Loan","Personal line of credit",2
+"Vermont","Mortgage","Reverse mortgage",3
+"Vermont","Bank account or service","Savings account",3
+"Vermont","Mortgage","Second mortgage",2
+"Vermont","Consumer Loan","Title loan",1
+"Vermont","Mortgage","VA mortgage",4
+"Vermont","Consumer Loan","Vehicle lease",5
+"Vermont","Consumer Loan","Vehicle loan",26
+"Washington","Bank account or service","(CD) Certificate of deposit",42
+"Washington","Debt collection","Auto",56
+"Washington","Bank account or service","Cashing a check without an account",2
+"Washington","Other financial service","Check cashing",3
+"Washington","Bank account or service","Checking account",709
+"Washington","Mortgage","Conventional adjustable mortgage (ARM)",521
+"Washington","Mortgage","Conventional fixed mortgage",1241
+"Washington","Credit Card","Credit Card",1195
+"Washington","Debt collection","Credit card",357
+"Washington","Other financial service","Credit repair",2
+"Washington","Credit reporting","Credit reporting",1709
+"Washington","Other financial service","Debt settlement",2
+"Washington","Money transfers","Domestic (US) money transfer",40
+"Washington","Mortgage","FHA mortgage",422
+"Washington","Debt collection","Federal student loan",36
+"Washington","Other financial service","Foreign currency exchange",2
+"Washington","Prepaid card","General purpose card",24
+"Washington","Prepaid card","Gift or merchant card",8
+"Washington","Prepaid card","Government benefit payment card",3
+"Washington","Mortgage","Home equity loan or line of credit",170
+"Washington","Debt collection","I do not know",439
+"Washington","Consumer Loan","Installment loan",58
+"Washington","Money transfers","International money transfer",34
+"Washington","Debt collection","Medical",275
+"Washington","Prepaid card","Mobile wallet",5
+"Washington","Debt collection","Mortgage",64
+"Washington","Student loan","Non-federal student loan",341
+"Washington","Debt collection","Other (i.e. phone, health club, etc.)",686
+"Washington","Bank account or service","Other bank product/service",203
+"Washington","Mortgage","Other mortgage",1543
+"Washington","Prepaid card","Other special purpose card",1
+"Washington","Payday loan","Payday loan",118
+"Washington","Prepaid card","Payroll card",2
+"Washington","Consumer Loan","Personal line of credit",24
+"Washington","Mortgage","Reverse mortgage",29
+"Washington","Bank account or service","Savings account",67
+"Washington","Mortgage","Second mortgage",12
+"Washington","Consumer Loan","Title loan",5
+"Washington","Other financial service","Traveler/Cashier Checks",1
+"Washington","Mortgage","VA mortgage",107
+"Washington","Consumer Loan","Vehicle lease",13
+"Washington","Consumer Loan","Vehicle loan",151
+"Wisconsin","Bank account or service","(CD) Certificate of deposit",33
+"Wisconsin","Debt collection","Auto",15
+"Wisconsin","Bank account or service","Cashing a check without an account",1
+"Wisconsin","Other financial service","Check cashing",2
+"Wisconsin","Bank account or service","Checking account",352
+"Wisconsin","Mortgage","Conventional adjustable mortgage (ARM)",158
+"Wisconsin","Mortgage","Conventional fixed mortgage",611
+"Wisconsin","Credit Card","Credit Card",936
+"Wisconsin","Debt collection","Credit card",201
+"Wisconsin","Credit reporting","Credit reporting",741
+"Wisconsin","Other financial service","Debt settlement",1
+"Wisconsin","Money transfers","Domestic (US) money transfer",28
+"Wisconsin","Mortgage","FHA mortgage",228
+"Wisconsin","Debt collection","Federal student loan",19
+"Wisconsin","Other financial service","Foreign currency exchange",2
+"Wisconsin","Prepaid card","General purpose card",17
+"Wisconsin","Prepaid card","Gift or merchant card",6
+"Wisconsin","Prepaid card","Government benefit payment card",3
+"Wisconsin","Mortgage","Home equity loan or line of credit",100
+"Wisconsin","Debt collection","I do not know",230
+"Wisconsin","Prepaid card","ID prepaid card",1
+"Wisconsin","Consumer Loan","Installment loan",67
+"Wisconsin","Money transfers","International money transfer",17
+"Wisconsin","Debt collection","Medical",188
+"Wisconsin","Prepaid card","Mobile wallet",8
+"Wisconsin","Debt collection","Mortgage",30
+"Wisconsin","Student loan","Non-federal student loan",213
+"Wisconsin","Debt collection","Other (i.e. phone, health club, etc.)",266
+"Wisconsin","Bank account or service","Other bank product/service",106
+"Wisconsin","Mortgage","Other mortgage",680
+"Wisconsin","Prepaid card","Other special purpose card",2
+"Wisconsin","Consumer Loan","Pawn loan",1
+"Wisconsin","Payday loan","Payday loan",183
+"Wisconsin","Prepaid card","Payroll card",4
+"Wisconsin","Consumer Loan","Personal line of credit",26
+"Wisconsin","Other financial service","Refund anticipation check",1
+"Wisconsin","Mortgage","Reverse mortgage",10
+"Wisconsin","Bank account or service","Savings account",39
+"Wisconsin","Mortgage","Second mortgage",7
+"Wisconsin","Consumer Loan","Title loan",5
+"Wisconsin","Other financial service","Traveler/Cashier Checks",1
+"Wisconsin","Mortgage","VA mortgage",39
+"Wisconsin","Consumer Loan","Vehicle lease",8
+"Wisconsin","Consumer Loan","Vehicle loan",138
+"West Virginia","Bank account or service","(CD) Certificate of deposit",6
+"West Virginia","Debt collection","Auto",5
+"West Virginia","Other financial service","Check cashing",4
+"West Virginia","Bank account or service","Checking account",97
+"West Virginia","Mortgage","Conventional adjustable mortgage (ARM)",19
+"West Virginia","Mortgage","Conventional fixed mortgage",115
+"West Virginia","Credit Card","Credit Card",171
+"West Virginia","Debt collection","Credit card",60
+"West Virginia","Other financial service","Credit repair",1
+"West Virginia","Credit reporting","Credit reporting",289
+"West Virginia","Money transfers","Domestic (US) money transfer",6
+"West Virginia","Mortgage","FHA mortgage",39
+"West Virginia","Debt collection","Federal student loan",3
+"West Virginia","Prepaid card","General purpose card",1
+"West Virginia","Prepaid card","Government benefit payment card",2
+"West Virginia","Mortgage","Home equity loan or line of credit",14
+"West Virginia","Debt collection","I do not know",64
+"West Virginia","Consumer Loan","Installment loan",10
+"West Virginia","Money transfers","International money transfer",7
+"West Virginia","Debt collection","Medical",37
+"West Virginia","Debt collection","Mortgage",8
+"West Virginia","Student loan","Non-federal student loan",90
+"West Virginia","Debt collection","Other (i.e. phone, health club, etc.)",71
+"West Virginia","Bank account or service","Other bank product/service",21
+"West Virginia","Mortgage","Other mortgage",125
+"West Virginia","Debt collection","Payday loan",7
+"West Virginia","Consumer Loan","Personal line of credit",1
+"West Virginia","Mortgage","Reverse mortgage",5
+"West Virginia","Bank account or service","Savings account",6
+"West Virginia","Prepaid card","Transit card",1
+"West Virginia","Mortgage","VA mortgage",9
+"West Virginia","Consumer Loan","Vehicle lease",2
+"West Virginia","Consumer Loan","Vehicle loan",54
+"Wyoming","Bank account or service","(CD) Certificate of deposit",2
+"Wyoming","Debt collection","Auto",3
+"Wyoming","Bank account or service","Checking account",20
+"Wyoming","Mortgage","Conventional adjustable mortgage (ARM)",12
+"Wyoming","Mortgage","Conventional fixed mortgage",61
+"Wyoming","Credit Card","Credit Card",58
+"Wyoming","Debt collection","Credit card",25
+"Wyoming","Other financial service","Credit repair",1
+"Wyoming","Credit reporting","Credit reporting",114
+"Wyoming","Money transfers","Domestic (US) money transfer",1
+"Wyoming","Mortgage","FHA mortgage",15
+"Wyoming","Debt collection","Federal student loan",2
+"Wyoming","Mortgage","Home equity loan or line of credit",5
+"Wyoming","Debt collection","I do not know",26
+"Wyoming","Consumer Loan","Installment loan",1
+"Wyoming","Debt collection","Medical",17
+"Wyoming","Debt collection","Mortgage",4
+"Wyoming","Student loan","Non-federal student loan",27
+"Wyoming","Debt collection","Other (i.e. phone, health club, etc.)",34
+"Wyoming","Bank account or service","Other bank product/service",8
+"Wyoming","Mortgage","Other mortgage",42
+"Wyoming","Payday loan","Payday loan",14
+"Wyoming","Consumer Loan","Personal line of credit",3
+"Wyoming","Mortgage","Reverse mortgage",2
+"Wyoming","Bank account or service","Savings account",1
+"Wyoming","Mortgage","Second mortgage",2
+"Wyoming","Mortgage","VA mortgage",8
+"Wyoming","Consumer Loan","Vehicle lease",2
+"Wyoming","Consumer Loan","Vehicle loan",13
